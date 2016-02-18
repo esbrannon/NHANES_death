@@ -1,0 +1,112 @@
+2013-2014	24-Hour Urine Collection Data Processing - First Collection	UR1_H_R Doc	RDC Only	October, 2015
+2013-2014	24-Hour Urine Collection Data Processing - SecondCollection	UR2_H_R Doc	RDC Only	October, 2015
+1999-2000	Alcohol Use - Youth	ALQYTH Doc	RDC Only	January, 2007
+2005-2006	Alcohol Use - Youth	ALQYTH_D Doc	RDC Only	March, 2008
+2007-2008	Alcohol Use - Youth	ALQYTH_E Doc	RDC Only	September, 2009
+2009-2010	Alcohol Use - Youth	ALQY_F_R Doc	RDC Only	January, 2012
+2011-2012	Alcohol Use - Youth	ALQY_G_R Doc	RDC Only	October, 2013
+2010-2010	Avian Influenza A (H7N9) & Seasonal Influenza Viruses Antibodies (Surplus)	SSH7N9_R Doc	RDC Only	November, 2013
+2001-2002	Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth	L34_B_R Doc	RDC Only	Updated November, 2010
+2003-2004	Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth	L34_C_R Doc	RDC Only	Updated November, 2010
+2000-2000	Cadmium, Lead, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine & Other Selected Nutritional Biochemistries - Blood, Second Exam	L06_2_00 Doc	RDC Only	October, 2008
+1999-2006	California - Demographic Variables & Sample Weights	CDEMO_AD Doc	RDC Only	January, 2016
+2007-2014	California - Demographic Variables & Sample Weights	CDEMO_EH Doc	RDC Only	October, 2015
+2011-2012	Chlamydia - Urine - Youth	CHLM_G_R Doc	RDC Only	November, 2013
+1999-2000	Chlamydia & Gonorrhea - Urine - Youth	L05RDC_A Doc	RDC Only	June, 2009
+2001-2002	Chlamydia & Gonorrhea - Urine - Youth	L05RDC_B Doc	RDC Only	June, 2009
+2003-2004	Chlamydia & Gonorrhea - Urine - Youth	L05RDC_C Doc	RDC Only	June, 2009
+2005-2006	Chlamydia & Gonorrhea - Urine - Youth	CHLMD_DR Doc	RDC Only	June, 2009
+2007-2008	Chlamydia & Gonorrhea - Urine - Youth	CHLM_E_R Doc	RDC Only	Updated November, 2010
+2009-2010	Chlamydia & Gonorrhea - Urine - Youth	CHLM_F_R Doc	RDC Only	September, 2011
+2000-2000	Cholesterol - Total, HDL, LDL & Triglycerides, Second Exam	L13_2_R Doc	RDC Only	September, 2010
+2000-2000	Complete Blood Count with 5-part Differential - Whole Blood, Second Exam	L25_2_R Doc	RDC Only	August, 2010
+2000-2000	C-Reactive Protein & Others, Second Exam	L11_2_R Doc	RDC Only	July, 2010
+2000-2000	Creatinine & Albumin - Urine, Second Exam	L16_2_R Doc	RDC Only	September, 2010
+2007-2008	Dermatology	DEQ_E_R Doc	RDC Only	Updated December, 2010
+2007-2008	Drug Use - Youth	DUQYTH_E Doc	RDC Only	January, 2010
+2009-2010	Drug Use - Youth	DUQY_F_R Doc	RDC Only	March, 2012
+2011-2012	Drug Use - Youth	DUQY_G_R Doc	RDC Only	November, 2013
+2000-2000	Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam	DXX_2_00 Doc	RDC Only	June, 2010
+2013-2014	Electrolytes - 24-Hour Urine - First Collection	U1LT_H_R Doc	RDC Only	October, 2015
+2013-2014	Electrolytes - 24-Hour Urine - Second Collection	U2LT_H_R Doc	RDC Only	October, 2015
+2013-2014	Electrolytes - Home Urine Collection	HULT_H_R Doc	RDC Only	October, 2015
+2003-2006	Electrolytes - Urine	SSUECD_R Doc	RDC Only	September, 2012
+2001-2002	Folate - Folic acid & 5-methyltetrahydrofolate - Serum (Surplus)	SSFA_B_R Doc	RDC Only	July, 2014
+2001-2002	Folic Acid - Unmetabolized (Surplus)	SSFOL_B Doc	RDC Only	Updated April, 2014
+2007-2008	Food Security - Pregnant Women	FSQ_E_R Doc	RDC Only	July, 2010
+2009-2010	Food Security - Pregnant Women	FSQ_F_R Doc	RDC Only	March, 2013
+2011-2012	Food Security - Pregnant Women	FSQ_G_R Doc	RDC Only	July, 2015
+1999-2004	Geocoding	N9904_GE Doc	RDC Only	May, 2009
+2005-2006	Geocoding	N0506_GE Doc	RDC Only	May, 2009
+2007-2008	Geocoding	N0708_GE Doc	RDC Only	November, 2009
+2009-2010	Geocoding	N0910_GE Doc	RDC Only	February, 2012
+2000-2000	Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam	L10_2_00 Doc	RDC Only	January, 2010
+2001-2001	Helicobacter pylori (HP1)	HP_01_R Doc	RDC Only	April, 2013
+2001-2001	Helicobacter pylori (HP1), Second Exam	HP2_01_R Doc	RDC Only	April, 2013
+2007-2008	Hemagglutination inhibition antibody titers to influenza A/ H1N1 viruses (Surplus)	SSH1N1_E Doc	RDC Only	Updated July, 2012
+2010-2010	Hemagglutination inhibition antibody titers to influenza A/ H1N1 viruses (Surplus)	SSHN10_R Doc	RDC Only	July, 2013
+2013-2014	Herpes Simplex Virus Type-1 & Type-2 - Youth	HSV_H_R Doc	RDC Only	October, 2015
+1999-2000	Herpes Simplex Virus Type-2 - Youth	L09RDC_A Doc	RDC Only	Updated May, 2010
+2001-2002	Herpes Simplex Virus Type-2 - Youth	L09RDC_B Doc	RDC Only	September, 2009
+2003-2004	Herpes Simplex Virus Type-2 - Youth	L09RDC_C Doc	RDC Only	Updated May, 2010
+2005-2006	Herpes Simplex Virus Type-2 - Youth	HSV_DR Doc	RDC Only	Updated May, 2010
+2007-2008	Herpes Simplex Virus Type-2 - Youth	HSV_E_R Doc	RDC Only	Updated November, 2010
+2009-2010	Herpes Simplex Virus Type-2 - Youth	HSV_F_R Doc	RDC Only	October, 2011
+2011-2012	Herpes Simplex Virus Type-2 - Youth	HSV_G_R Doc	RDC Only	November, 2013
+2009-2009	Human Leukocyte Antigen B-27	B27_F_R Doc	RDC Only	December, 2011
+2007-2008	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum	SER_E_R Doc	RDC Only	November, 2013
+2005-2006	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth	HPVS_D_R Doc	RDC Only	July, 2013
+2009-2010	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth	SER_F_R Doc	RDC Only	November, 2013
+2005-2006	Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 22, 45, 52 & 58 Antibody - Serum - Youth	HPVM_D_R Doc	RDC Only	January, 2015
+2009-2010	Human Papillomavirus (HPV) - Oral Rinse - Youth	OHPV_F_R Doc	RDC Only	October, 2011
+2011-2012	Human Papillomavirus (HPV) - Oral Rinse - Youth	OHPV_G_R Doc	RDC Only	February, 2014
+2007-2008	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	SWR_E_R Doc	RDC Only	August, 2012
+2009-2010	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVS_F_R Doc	RDC Only	August, 2012
+2011-2012	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVS_G_R Doc	RDC Only	March, 2015
+2003-2004	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth	SWR_C_R Doc	RDC Only	November, 2010
+2005-2006	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth	SWR_D_R Doc	RDC Only	November, 2010
+2003-2004	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture, Prototype Line Blot Assay & Roche Linear Array - Youth	SWA_C_R Doc	RDC Only	Updated November, 2010
+2009-2010	Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections - Youth	SSHP_F_R Doc	RDC Only	December, 2013
+2009-2010	Influenza A (H3N2) Variant Virus & Historical Seasonal H3N2 Influenza Viruses Antibodies (Surplus)	SSIF_F_R Doc	RDC Only	Updated October, 2015
+2013-2014	Iodine - 24-Hour Urine - First Collection	U1IO_H_R Doc	RDC Only	October, 2015
+2013-2014	Iodine - 24-Hour Urine - Second Collection	U2IO_H_R Doc	RDC Only	October, 2015
+2009-2012	Iodine - Urine - Pregnant Women (Surplus)	SSUIFG_R Doc	RDC Only	January, 2015
+2013-2014	Kidney Markers - 24-Hour Urine - First Collection	U1KM_H_R Doc	RDC Only	October, 2015
+2013-2014	Kidney Markers - 24-Hour Urine - Second Collection	U2KM_H_R Doc	RDC Only	October, 2015
+2013-2014	Kidney Markers - Home Urine Collection	HUKM_H_R Doc	RDC Only	October, 2015
+1999-2006	Los Angeles County, California - Demographic Variables & Sample Weights	LDEMO_AD Doc	RDC Only	May, 2015
+2007-2014	Los Angeles County, California - Demographic Variables & Sample Weights	LDEMO_EH Doc	RDC Only	October, 2015
+2000-2000	Measles, Rubella, & Varicella, Second Exam	L19_2_R Doc	RDC Only	September, 2010
+2000-2004	Mental Health - Attention Deficit Disorder/Hyperactivity - Youth	YDQA Doc	RDC Only	October, 2006
+1999-2000	Mental Health - Conduct Disorder - Youth	YCQ Doc	RDC Only	January, 2007
+2001-2002	Mental Health - Conduct Disorder - Youth	YCQ_B Doc	RDC Only	January, 2007
+2003-2004	Mental Health - Conduct Disorder - Youth	YCQ_C Doc	RDC Only	January, 2007
+2000-2004	Mental Health - Conduct Disorder - Youth, Parent Version	YDQC Doc	RDC Only	October, 2006
+2005-2006	Mental Health - Depression Screener - Youth	DPQYTH_D Doc	RDC Only	April, 2008
+2007-2008	Mental Health - Depression Screener - Youth	DPQYTH_E Doc	RDC Only	October, 2009
+2009-2010	Mental Health - Depression Screener - Youth	DPQY_F_R Doc	RDC Only	September, 2011
+2011-2012	Mental Health - Depression Screener - Youth	DPQY_G_R Doc	RDC Only	September, 2013
+2000-2004	Mental Health - Eating Disorders - Youth	YDQE Doc	RDC Only	October, 2006
+2000-2004	Mental Health - Elimination Disorders - Youth	YDQL Doc	RDC Only	October, 2006
+1999-2004	Mental Health - Generalized Anxiety Disorder - Youth	YDQG Doc	RDC Only	October, 2006
+2000-2004	Mental Health - Major Depression/Dysthymic Disorder - Youth	YDQD Doc	RDC Only	October, 2006
+1999-2004	Mental Health - Panic Disorder - Youth	YDQP Doc	RDC Only	October, 2006
+1999-2004	Mental Health Diagnostic Interview - Youth	YDQ Doc	RDC Only	October, 2006
+2005-2006	Occupation - Industry & Occupation Codes	OCQ_D_R Doc	RDC Only	June, 2014
+2007-2008	Occupation - Industry & Occupation Codes	OCQ_E_R Doc	RDC Only	Updated August, 2013
+2009-2010	Occupation - Industry & Occupation Codes	OCQ_F_R Doc	RDC Only	June, 2014
+2007-2008	Reproductive Health - Pregnant Women	RHQ_E_R Doc	RDC Only	May, 2010
+2009-2010	Reproductive Health - Pregnant Women	RHQ_F_R Doc	RDC Only	September, 2011
+2011-2012	Reproductive Health - Pregnant Women	RHQ_G_R Doc	RDC Only	September, 2013
+2000-2000	Second Day Lab General Documentation	DOC_2000 Doc	RDC Only	March, 2010
+2005-2006	Sexual Behavior - Youth	SXQYTH_D Doc	RDC Only	March, 2008
+2007-2008	Sexual Behavior - Youth	SXQYTH_E Doc	RDC Only	September, 2009
+2009-2010	Sexual Behavior - Youth	SXQY_F_R Doc	RDC Only	November, 2011
+2011-2012	Sexual Behavior - Youth	SXQY_G_R Doc	RDC Only	September, 2013
+2013-2014	Sexual Behavior - Youth	SXQY_H_R Doc	RDC Only	October, 2015
+2010-2010	Sodium, Potassium & Chloride - Casual Urine	SSUE10_R Doc	RDC Only	September, 2012
+2000-2000	Standard Biochemistry Profile & Hormones, Second Exam	L18_2_00 Doc	RDC Only	December, 2008
+2012-2012	Taste & Smell	CSX_G_R Doc	RDC Only	April, 2014
+2013-2014	Urinary Chlamydia - Youth	CHLM_H_R Doc	RDC Only	October, 2015
+2000-2000	Vitamin A & Vitamin E, Second Exam	VIT_2_R Doc	RDC Only	August, 2010
+2000-2000	Vitamin D, Second Exam	VID_2_00 Doc	RDC Only	October, 2008

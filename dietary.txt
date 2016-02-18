@@ -1,0 +1,72 @@
+1999-2000	Dietary Interview - Individual Foods	DRXIFF Doc	DRXIFF Data [XPT, 68.3 MB]	Updated July, 2010
+2001-2002	Dietary Interview - Individual Foods	DRXIFF_B Doc	DRXIFF_B Data [XPT, 81.8 MB]	Updated July, 2010
+2003-2004	Dietary Interview - Individual Foods, First Day	DR1IFF_C Doc	DR1IFF_C Data [XPT, 82.1 MB]	Updated November, 2007
+2005-2006	Dietary Interview - Individual Foods, First Day	DR1IFF_D Doc	DR1IFF_D Data [XPT, 93.1 MB]	July, 2008
+2007-2008	Dietary Interview - Individual Foods, First Day	DR1IFF_E Doc	DR1IFF_E Data [XPT, 94.5 MB]	Updated May, 2013
+2009-2010	Dietary Interview - Individual Foods, First Day	DR1IFF_F Doc	DR1IFF_F Data [XPT, 97.9 MB]	Updated May, 2013
+2011-2012	Dietary Interview - Individual Foods, First Day	DR1IFF_G Doc	DR1IFF_G Data [XPT, 82 MB]	September, 2014
+2003-2004	Dietary Interview - Individual Foods, Second Day	DR2IFF_C Doc	DR2IFF_C Data [XPT, 75.6 MB]	Updated November, 2007
+2005-2006	Dietary Interview - Individual Foods, Second Day	DR2IFF_D Doc	DR2IFF_D Data [XPT, 83.7 MB]	July, 2008
+2007-2008	Dietary Interview - Individual Foods, Second Day	DR2IFF_E Doc	DR2IFF_E Data [XPT, 78.7 MB]	Updated May, 2013
+2009-2010	Dietary Interview - Individual Foods, Second Day	DR2IFF_F Doc	DR2IFF_F Data [XPT, 83.8 MB]	Updated May, 2013
+2011-2012	Dietary Interview - Individual Foods, Second Day	DR2IFF_G Doc	DR2IFF_G Data [XPT, 72.7 MB]	September, 2014
+1999-2000	Dietary Interview - Total Nutrient Intakes	DRXTOT Doc	DRXTOT Data [XPT, 9.4 MB]	Updated July, 2010
+2001-2002	Dietary Interview - Total Nutrient Intakes	DRXTOT_B Doc	DRXTOT_B Data [XPT, 11.4 MB]	Updated July, 2010
+2003-2004	Dietary Interview - Total Nutrient Intakes, First Day	DR1TOT_C Doc	DR1TOT_C Data [XPT, 11.8 MB]	Updated November, 2007
+2005-2006	Dietary Interview - Total Nutrient Intakes, First Day	DR1TOT_D Doc	DR1TOT_D Data [XPT, 12.2 MB]	July, 2008
+2007-2008	Dietary Interview - Total Nutrient Intakes, First Day	DR1TOT_E Doc	DR1TOT_E Data [XPT, 12.2 MB]	Updated May, 2013
+2009-2010	Dietary Interview - Total Nutrient Intakes, First Day	DR1TOT_F Doc	DR1TOT_F Data [XPT, 13 MB]	Updated May, 2013
+2011-2012	Dietary Interview - Total Nutrient Intakes, First Day	DR1TOT_G Doc	DR1TOT_G Data [XPT, 11.8 MB]	September, 2014
+2003-2004	Dietary Interview - Total Nutrient Intakes, Second Day	DR2TOT_C Doc	DR2TOT_C Data [XPT, 6 MB]	Updated November, 2007
+2005-2006	Dietary Interview - Total Nutrient Intakes, Second Day	DR2TOT_D Doc	DR2TOT_D Data [XPT, 6.2 MB]	July, 2008
+2007-2008	Dietary Interview - Total Nutrient Intakes, Second Day	DR2TOT_E Doc	DR2TOT_E Data [XPT, 6.2 MB]	Updated May, 2013
+2009-2010	Dietary Interview - Total Nutrient Intakes, Second Day	DR2TOT_F Doc	DR2TOT_F Data [XPT, 6.5 MB]	Updated May, 2013
+2011-2012	Dietary Interview - Total Nutrient Intakes, Second Day	DR2TOT_G Doc	DR2TOT_G Data [XPT, 5.9 MB]	September, 2014
+1999-2000	Dietary Interview Technical Support File - Food Code Format File	DRXFMT Doc	DRXFMT Data [XPT, 321.2 KB]	July, 2010
+2001-2002	Dietary Interview Technical Support File - Food Code Format File	DRXFMT_B Doc	DRXFMT_B Data [XPT, 518.8 KB]	July, 2010
+2003-2004	Dietary Interview Technical Support File - Food Codes	DRXFCD_C Doc	DRXFCD_C Data [XPT, 1.8 MB]	Updated November, 2007
+2005-2006	Dietary Interview Technical Support File - Food Codes	DRXFCD_D Doc	DRXFCD_D Data [XPT, 1.8 MB]	July, 2008
+2007-2008	Dietary Interview Technical Support File - Food Codes	DRXFCD_E Doc	DRXFCD_E Data [XPT, 1.8 MB]	Updated August, 2010
+2009-2010	Dietary Interview Technical Support File - Food Codes	DRXFCD_F Doc	DRXFCD_F Data [XPT, 1.9 MB]	June, 2012
+2011-2012	Dietary Interview Technical Support File - Food Codes	DRXFCD_G Doc	DRXFCD_G Data [XPT, 2.1 MB]	September, 2014
+2003-2004	Dietary Interview Technical Support File - Modification Codes	DRXMCD_C Doc	DRXMCD_C Data [XPT, 279.9 KB]	Updated November, 2007
+2005-2006	Dietary Interview Technical Support File - Modification Codes	DRXMCD_D Doc	DRXMCD_D Data [XPT, 315.7 KB]	July, 2008
+2007-2008	Dietary Interview Technical Support File - Modification Codes	DRXMCD_E Doc	DRXMCD_E Data [XPT, 327 KB]	Updated August, 2010
+2009-2010	Dietary Interview Technical Support File - Modification Codes	DRXMCD_F Doc	DRXMCD_F Data [XPT, 352.4 KB]	June, 2012
+2011-2012	Dietary Interview Technical Support File - Modification Codes	DRXMCD_G Doc	DRXMCD_G Data [XPT, 233.6 KB]	September, 2014
+2009-2010	Dietary Screener Questionnaire	DTQ_F Doc	DTQ_F Data [XPT, 6.8 MB]	December, 2012
+1999-2012	Dietary Supplement Database - Blend Information	DSBI Doc	DSBI Data [XPT, 4.42 MB]	September, 2014
+1999-2012	Dietary Supplement Database - Ingredient Information	DSII Doc	DSII Data [XPT, 30.97 MB]	September, 2014
+1999-2012	Dietary Supplement Database - Product Information	DSPI Doc	DSPI Data [XPT, 2.91 MB]	September, 2014
+2007-2008	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day	DS1IDS_E Doc	DS1IDS_E Data [XPT, 2 MB]	July, 2010
+2009-2010	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day	DS1IDS_F Doc	DS1IDS_F Data [XPT, 3.3 MB]	June, 2012
+2011-2012	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day	DS1IDS_G Doc	DS1IDS_G Data [XPT, 3 MB]	Updated December, 2014
+2007-2008	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	DS2IDS_E Doc	DS2IDS_E Data [XPT, 2 MB]	July, 2010
+2009-2010	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	DS2IDS_F Doc	DS2IDS_F Data [XPT, 3.3 MB]	June, 2012
+2011-2012	Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day	DS2IDS_G Doc	DS2IDS_G Data [XPT, 3.1 MB]	Updated December, 2014
+2007-2008	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	DS1TOT_E Doc	DS1TOT_E Data [XPT, 3.5 MB]	July, 2010
+2009-2010	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	DS1TOT_F Doc	DS1TOT_F Data [XPT, 3.8 MB]	June, 2012
+2011-2012	Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day	DS1TOT_G Doc	DS1TOT_G Data [XPT, 3.5 MB]	Updated December, 2014
+2007-2008	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	DS2TOT_E Doc	DS2TOT_E Data [XPT, 3.5 MB]	July, 2010
+2009-2010	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	DS2TOT_F Doc	DS2TOT_F Data [XPT, 3.8 MB]	June, 2012
+2011-2012	Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day	DS2TOT_G Doc	DS2TOT_G Data [XPT, 3.5 MB]	Updated December, 2014
+2007-2008	Dietary Supplement Use 30 Day - Individual Dietary Supplements	DSQIDS_E Doc	DSQIDS_E Data [XPT, 5.4 MB]	July, 2010
+2009-2010	Dietary Supplement Use 30 Day - Individual Dietary Supplements	DSQIDS_F Doc	DSQIDS_F Data [XPT, 6.9 MB]	June, 2012
+2011-2012	Dietary Supplement Use 30 Day - Individual Dietary Supplements	DSQIDS_G Doc	DSQIDS_G Data [XPT, 7 MB]	December, 2014
+1999-2000	Dietary Supplement Use 30-Day - File 1, Supplement Counts	DSQFILE1 Doc	DSQFILE1 Data [XPT, 234.8 KB]	Updated July, 2009
+2001-2002	Dietary Supplement Use 30-Day - File 1, Supplement Counts	DSQ1_B Doc	DSQ1_B Data [XPT, 259.9 KB]	Updated October, 2005
+2003-2004	Dietary Supplement Use 30-Day - File 1, Supplement Counts	DSQ1_C Doc	DSQ1_C Data [XPT, 396.8 KB]	Updated March, 2007
+2005-2006	Dietary Supplement Use 30-Day - File 1, Supplement Counts	DSQ1_D Doc	DSQ1_D Data [XPT, 405.6 KB]	Updated July, 2009
+1999-2000	Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements	DSQFILE2 Doc	DSQFILE2 Data [XPT, 696.1 KB]	Updated July, 2009
+2001-2002	Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements	DSQ2_B Doc	DSQ2_B Data [XPT, 755.3 KB]	Updated October, 2005
+2003-2004	Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements	DSQ2_C Doc	DSQ2_C Data [XPT, 700.7 KB]	Updated March, 2007
+2005-2006	Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements	DSQ2_D Doc	DSQ2_D Data [XPT, 663.4 KB]	Updated July, 2009
+2007-2008	Dietary Supplement Use 30-Day - Total Dietary Supplements	DSQTOT_E Doc	DSQTOT_E Data [XPT, 2.9 MB]	July, 2010
+2009-2010	Dietary Supplement Use 30-Day - Total Dietary Supplements	DSQTOT_F Doc	DSQTOT_F Data [XPT, 3.1 MB]	June, 2012
+2011-2012	Dietary Supplement Use 30-Day - Total Dietary Supplements	DSQTOT_G Doc	DSQTOT_G Data [XPT, 2.9 MB]	December, 2014
+2005-2006	Food Frequency Questionnaire - Look-Up Table FOODLOOK	FOODLK_D Doc	FOODLK_D Data [xpt, 44.9 KB]	March, 2010
+2005-2006	Food Frequency Questionnaire - Look-Up Table VARLOOK	VARLK_D Doc	VARLK_D Data [xpt, 32 KB]	March, 2010
+2003-2004	Food Frequency Questionnaire - Output from DietCalc Software	FFQDC_C Doc	FFQDC_C Data [XPT, 19.8 MB]	February, 2008
+2005-2006	Food Frequency Questionnaire - Output from DietCalc Software	FFQDC_D Doc	FFQDC_D Data [XPT, 18.5 MB]	September, 2008
+2003-2004	Food Frequency Questionnaire - Raw Questionnaire Responses	FFQRAW_C Doc	FFQRAW_C Data [XPT, 11.1 MB]	February, 2008
+2005-2006	Food Frequency Questionnaire - Raw Questionnaire Responses	FFQRAW_D Doc	FFQRAW_D Data [XPT, 10.4 MB]	September, 2008

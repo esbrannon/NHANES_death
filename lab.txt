@@ -1,0 +1,498 @@
+2013-2014	24-Hour Urine Collection Data Processing - First Collection	UR1_H_R Doc	RDC Only	October, 2015
+2013-2014	24-Hour Urine Collection Data Processing - SecondCollection	UR2_H_R Doc	RDC Only	October, 2015
+2003-2004	Acrylamide & Glycidamide	L06AGE_C Doc	L06AGE_C Data [XPT, 335.6 KB]	December, 2008
+1999-2000	Aflatoxin B1-lysine - Serum (Surplus)	SSAFB_A Doc	SSAFB_A Data [XPT, 945.1 KB]	August, 2012
+1999-2000	Albumin & Creatinine - Urine	LAB16 Doc	LAB16 Data [XPT, 306.9 KB]	June, 2002
+2001-2002	Albumin & Creatinine - Urine	L16_B Doc	L16_B Data [XPT, 339.2 KB]	Updated May, 2004
+2003-2004	Albumin & Creatinine - Urine	L16_C Doc	L16_C Data [XPT, 313.2 KB]	April, 2006
+2005-2006	Albumin & Creatinine - Urine	ALB_CR_D Doc	ALB_CR_D Data [XPT, 317.3 KB]	November, 2007
+2007-2008	Albumin & Creatinine - Urine	ALB_CR_E Doc	ALB_CR_E Data [XPT, 319.1 KB]	September, 2009
+2009-2010	Albumin & Creatinine - Urine	ALB_CR_F Doc	ALB_CR_F Data [XPT, 740.6 KB]	February, 2012
+2011-2012	Albumin & Creatinine - Urine	ALB_CR_G Doc	ALB_CR_G Data [XPT, 306 KB]	September, 2013
+2005-2006	Allergen Specific IgE(s) & Total IgE - Serum	AL_IGE_D Doc	AL_IGE_D Data [XPT, 3 MB]	Updated February, 2013
+2005-2006	Allergens - Household Dust	ALDUST_D Doc	ALDUST_D Data [XPT, 3.8 MB]	Updated February, 2014
+1999-2004	Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)	SSAMH_A Doc	SSAMH_A Data [XPT, 36.6 KB]	January, 2015
+2007-2008	Apolipoprotein B	APOB_E Doc	APOB_E Data [XPT, 104.8 KB]	July, 2010
+2009-2010	Apolipoprotein B	APOB_F Doc	APOB_F Data [XPT, 113.2 KB]	June, 2012
+2011-2012	Apolipoprotein B	APOB_G Doc	APOB_G Data [XPT, 102.5 KB]	January, 2014
+2003-2004	Arsenics - Total & Speciated - Urine	L06UAS_C Doc	L06UAS_C Data [XPT, 400.2 KB]	November, 2007
+2005-2006	Arsenics - Total & Speciated - Urine	UAS_D Doc	UAS_D Data [XPT, 403 KB]	January, 2009
+2007-2008	Arsenics - Total & Speciated - Urine	UAS_E Doc	UAS_E Data [XPT, 407.1 KB]	Updated September, 2011
+2009-2010	Arsenics - Total & Speciated - Urine	UAS_F Doc	UAS_F Data [XPT, 439.9 KB]	September, 2011
+2011-2012	Arsenics - Total & Speciated - Urine	UAS_G Doc	UAS_G Data [XPT, 388.4 KB]	Updated October, 2014
+2011-2012	Arsenics - Total & Speciated - Urine - Special Sample	UASS_G Doc	UASS_G Data [XPT, 352.1 KB]	September, 2013
+2007-2008	Atrazine and Metabolites	UAM_E Doc	UAM_E Data [XPT, 318.5 KB]	September, 2015
+1999-2000	Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)	SSANA_A Doc	SSANA_A Data [XPT, 933.6 KB]	Updated February, 2012
+2001-2002	Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)	SSANA_B Doc	SSANA_B Data [XPT, 658.7 KB]	Updated February, 2012
+2003-2004	Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)	SSANA_C Doc	SSANA_C Data [XPT, 1001 KB]	Updated February, 2012
+2010-2010	Avian Influenza A (H7N9) & Seasonal Influenza Viruses Antibodies (Surplus)	SSH7N9_R Doc	RDC Only	November, 2013
+2001-2002	Bacterial vaginosis (BV) & Trichomonas vaginalis	L34_B Doc	L34_B Data [XPT, 51.1 KB]	Updated October, 2010
+2003-2004	Bacterial vaginosis (BV) & Trichomonas vaginalis	L34_C Doc	L34_C Data [XPT, 45.5 KB]	Updated October, 2010
+2001-2002	Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth	L34_B_R Doc	RDC Only	Updated November, 2010
+2003-2004	Bacterial vaginosis (BV) & Trichomonas vaginalis - Youth	L34_C_R Doc	RDC Only	Updated November, 2010
+2013-2014	Blood Lead, Cadmium, Total Mercury, Selenium, and Magnesium	PBCD_H Doc	PBCD_H Data [XPT, 790.9 KB]	January, 2016
+2013-2014	Blood mercury: inorganic, ethyl and methyl	IHGEM_H Doc	IHGEM_H Data [XPT, 419.1 KB]	January, 2016
+2003-2004	Brominated Flame Retardants (BFRs)	L28PBE_C Doc	L28PBE_C Data [XPT, 644.6 KB]	Updated August, 2007
+2005-2006	Brominated Flame Retardants (BFRs) - Pooled Samples	BFRPOL_D Doc	BFRPOL_D Data [XPT, 87.6 KB]	Updated September, 2014
+2007-2008	Brominated Flame Retardants (BFRs) - Pooled Samples	BFRPOL_E Doc	BFRPOL_E Data [XPT, 93.1 KB]	Updated September, 2014
+2001-2002	Brominated Flame Retardants (BFRs) - Pooled Samples (Surplus)	SSBFR_B Doc	SSBFR_B Data [XPT, 12 KB]	July, 2013
+2003-2004	Cadmium, Lead, & Total Mercury - Blood	L06BMT_C Doc	L06BMT_C Data [XPT, 647.4 KB]	May, 2006
+2005-2006	Cadmium, Lead, & Total Mercury - Blood	PBCD_D Doc	PBCD_D Data [XPT, 591.8 KB]	Updated June, 2013
+2007-2008	Cadmium, Lead, & Total Mercury - Blood	PBCD_E Doc	PBCD_E Data [XPT, 583.5 KB]	Updated June, 2013
+2009-2010	Cadmium, Lead, & Total Mercury - Blood	PBCD_F Doc	PBCD_F Data [XPT, 770.5 KB]	Updated June, 2013
+2000-2000	Cadmium, Lead, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine & Other Selected Nutritional Biochemistries - Blood, Second Exam	L06_2_00 Doc	RDC Only	October, 2008
+1999-2000	Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries	LAB06 Doc	LAB06 Data [XPT, 2.8 MB]	Updated September, 2007
+2001-2002	Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries	L06_B Doc	L06_B Data [XPT, 1.7 MB]	Updated May, 2007
+2001-2002	Cadmium, Lead, Total Mercury, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine - Blood, Second Exam	L06_2_B Doc	L06_2_B Data [XPT, 89.5 KB]	October, 2008
+2011-2012	Cadmium, Lead, Total Mercury, Selenium, & Manganese - Blood	PBCD_G Doc	PBCD_G Data [XPT, 1.1 MB]	September, 2013
+2009-2010	Caffeine & Caffeine Metabolites - Urine	CAFE_F Doc	CAFE_F Data [XPT, 735.2 KB]	March, 2014
+2009-2010	Chlamydia - Urine	CHLMDA_F Doc	CHLMDA_F Data [XPT, 37.5 KB]	September, 2011
+2011-2012	Chlamydia - Urine	CHLMDA_G Doc	CHLMDA_G Data [XPT, 35 KB]	November, 2013
+2011-2012	Chlamydia - Urine - Youth	CHLM_G_R Doc	RDC Only	November, 2013
+1999-2000	Chlamydia & Gonorrhea - Urine	LAB05 Doc	LAB05 Data [XPT, 50.5 KB]	June, 2002
+2001-2002	Chlamydia & Gonorrhea - Urine	L05_B Doc	L05_B Data [XPT, 57.7 KB]	May, 2004
+2003-2004	Chlamydia & Gonorrhea - Urine	L05_C Doc	L05_C Data [XPT, 53.2 KB]	Updated June, 2007
+2005-2006	Chlamydia & Gonorrhea - Urine	CHLMDA_D Doc	CHLMDA_D Data [XPT, 57.4 KB]	May, 2008
+2007-2008	Chlamydia & Gonorrhea - Urine	CHLMDA_E Doc	CHLMDA_E Data [XPT, 51.2 KB]	September, 2009
+1999-2000	Chlamydia & Gonorrhea - Urine - Youth	L05RDC_A Doc	RDC Only	June, 2009
+2001-2002	Chlamydia & Gonorrhea - Urine - Youth	L05RDC_B Doc	RDC Only	June, 2009
+2003-2004	Chlamydia & Gonorrhea - Urine - Youth	L05RDC_C Doc	RDC Only	June, 2009
+2005-2006	Chlamydia & Gonorrhea - Urine - Youth	CHLMD_DR Doc	RDC Only	June, 2009
+2007-2008	Chlamydia & Gonorrhea - Urine - Youth	CHLM_E_R Doc	RDC Only	Updated November, 2010
+2009-2010	Chlamydia & Gonorrhea - Urine - Youth	CHLM_F_R Doc	RDC Only	September, 2011
+2005-2006	Cholesterol - HDL	HDL_D Doc	HDL_D Data [XPT, 190.7 KB]	Updated April, 2010
+2007-2008	Cholesterol - HDL	HDL_E Doc	HDL_E Data [XPT, 191.8 KB]	April, 2010
+2009-2010	Cholesterol - HDL	HDL_F Doc	HDL_F Data [XPT, 202.6 KB]	September, 2011
+2011-2012	Cholesterol - HDL	HDL_G Doc	HDL_G Data [XPT, 184.5 KB]	September, 2013
+1999-2000	Cholesterol - LDL & Triglycerides	LAB13AM Doc	LAB13AM Data [XPT, 215.9 KB]	Updated March, 2007
+2001-2002	Cholesterol - LDL & Triglycerides	L13AM_B Doc	L13AM_B Data [XPT, 245.9 KB]	Updated March, 2007
+2003-2004	Cholesterol - LDL & Triglycerides	L13AM_C Doc	L13AM_C Data [XPT, 190.7 KB]	Updated May, 2008
+2007-2008	Cholesterol - LDL & Triglycerides	TRIGLY_E Doc	TRIGLY_E Data [XPT, 157 KB]	Updated September, 2010
+2009-2010	Cholesterol - LDL & Triglycerides	TRIGLY_F Doc	TRIGLY_F Data [XPT, 169.5 KB]	December, 2011
+2011-2012	Cholesterol - LDL & Triglycerides	TRIGLY_G Doc	TRIGLY_G Data [XPT, 153.4 KB]	January, 2014
+2005-2006	Cholesterol - LDL, Triglyceride & Apoliprotein (ApoB)	TRIGLY_D Doc	TRIGLY_D Data [XPT, 211.3 KB]	March, 2008
+2005-2006	Cholesterol - Total	TCHOL_D Doc	TCHOL_D Data [XPT, 190.7 KB]	Updated April, 2010
+2007-2008	Cholesterol - Total	TCHOL_E Doc	TCHOL_E Data [XPT, 191.8 KB]	Updated February, 2010
+2009-2010	Cholesterol - Total	TCHOL_F Doc	TCHOL_F Data [XPT, 202.6 KB]	September, 2011
+2011-2012	Cholesterol - Total	TCHOL_G Doc	TCHOL_G Data [XPT, 184.5 KB]	September, 2013
+2013-2014	Cholesterol - Total	TCHOL_H Doc	TCHOL_H Data [XPT, 195.5 KB]	October, 2015
+1999-2000	Cholesterol - Total & HDL	LAB13 Doc	LAB13 Data [XPT, 327.3 KB]	Updated April, 2010
+2001-2002	Cholesterol - Total & HDL	L13_B Doc	L13_B Data [XPT, 363.2 KB]	Updated April, 2010
+2003-2004	Cholesterol - Total & HDL	L13_C Doc	L13_C Data [XPT, 335.6 KB]	Updated April, 2010
+2000-2000	Cholesterol - Total, HDL, LDL & Triglycerides, Second Exam	L13_2_R Doc	RDC Only	September, 2010
+2001-2002	Cholesterol - Total, HDL, LDL & Triglycerides, Second Exam	L13_2_B Doc	L13_2_B Data [XPT, 44.6 KB]	September, 2010
+1999-2000	Complete Blood Count with 5-part Differential - Whole Blood	LAB25 Doc	LAB25 Data [XPT, 1.4 MB]	Updated April, 2006
+2001-2002	Complete Blood Count with 5-part Differential - Whole Blood	L25_B Doc	L25_B Data [XPT, 1.6 MB]	Updated August, 2007
+2003-2004	Complete Blood Count with 5-part Differential - Whole Blood	L25_C Doc	L25_C Data [XPT, 1.5 MB]	Updated August, 2007
+2005-2006	Complete Blood Count with 5-Part Differential - Whole Blood	CBC_D Doc	CBC_D Data [XPT, 1.5 MB]	November, 2007
+2007-2008	Complete Blood Count with 5-part Differential - Whole Blood	CBC_E Doc	CBC_E Data [XPT, 1.5 MB]	September, 2009
+2009-2010	Complete Blood Count with 5-part Differential - Whole Blood	CBC_F Doc	CBC_F Data [XPT, 1.6 MB]	Updated January, 2012
+2011-2012	Complete Blood Count with 5-part Differential - Whole Blood	CBC_G Doc	CBC_G Data [XPT, 1.4 MB]	January, 2014
+2000-2000	Complete Blood Count with 5-part Differential - Whole Blood, Second Exam	L25_2_R Doc	RDC Only	August, 2010
+2001-2002	Complete Blood Count with 5-part Differential - Whole Blood, Second Exam	L25_2_B Doc	L25_2_B Data [XPT, 99.5 KB]	August, 2010
+2011-2012	Copper, Selenium & Zinc - Serum	CUSEZN_G Doc	CUSEZN_G Data [XPT, 184.4 KB]	Updated October, 2014
+2013-2014	Copper, Selenium & Zinc - Serum	CUSEZN_H Doc	CUSEZN_H Data [XPT, 195.7 KB]	January, 2016
+2003-2004	Cotinine - Serum	L06COT_C Doc	L06COT_C Data [XPT, 134.8 KB]	April, 2006
+2005-2006	Cotinine - Serum	COT_D Doc	COT_D Data [XPT, 137.8 KB]	January, 2008
+2007-2008	Cotinine - Serum & Total NNAL - Urine	COTNAL_E Doc	COTNAL_E Data [XPT, 410 KB]	Updated February, 2012
+2009-2010	Cotinine - Serum & Total NNAL - Urine	COTNAL_F Doc	COTNAL_F Data [XPT, 433.4 KB]	Updated July, 2014
+2011-2012	Cotinine - Serum & Total NNAL - Urine	COTNAL_G Doc	COTNAL_G Data [XPT, 397 KB]	Updated December, 2013
+2003-2004	Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)	SSQFEV_C Doc	SSQFEV_C Data [XPT, 174.8 KB]	February, 2008
+2000-2000	C-Reactive Protein & Others, Second Exam	L11_2_R Doc	RDC Only	July, 2010
+2001-2002	C-Reactive Protein & Others, Second Exam	L11_2_B Doc	L11_2_B Data [XPT, 32.2 KB]	July, 2010
+1999-2000	C-Reactive Protein (CRP)	LAB11 Doc	LAB11 Data [XPT, 458 KB]	Updated September, 2008
+2005-2006	C-Reactive Protein (CRP)	CRP_D Doc	CRP_D Data [XPT, 148.5 KB]	November, 2007
+2007-2008	C-Reactive Protein (CRP)	CRP_E Doc	CRP_E Data [XPT, 137.2 KB]	September, 2009
+2009-2010	C-Reactive Protein (CRP)	CRP_F Doc	CRP_F Data [XPT, 145 KB]	September, 2011
+2003-2004	C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)	L11_C Doc	L11_C Data [XPT, 288.1 KB]	February, 2006
+2001-2002	C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides	L11_B Doc	L11_B Data [XPT, 435.8 KB]	Updated June, 2007
+2000-2000	Creatinine & Albumin - Urine, Second Exam	L16_2_R Doc	RDC Only	September, 2010
+2001-2002	Creatinine & Albumin - Urine, Second Exam	L16_2_B Doc	L16_2_B Data [XPT, 27.6 KB]	September, 2010
+1999-2000	Cryptosporidum & Toxoplasma	LAB17 Doc	LAB17 Data [XPT, 372.7 KB]	June, 2002
+1999-2000	Cystatin C - Serum (Surplus)	SSCYST_A Doc	SSCYST_A Data [XPT, 65.7 KB]	June, 2008
+2001-2002	Cystatin C (Surplus)	SSCYST_B Doc	SSCYST_B Data [XPT, 69.9 KB]	June, 2008
+2011-2012	Cytomegalovirus IgG & IgM Antibodies - Serum	CMV_G Doc	CMV_G Data [XPT, 36.7 KB]	October, 2013
+1999-2000	Cytomegalovirus IgG Antibodies - Serum (Surplus)	SSCMV_A Doc	SSCMV_A Data [XPT, 110.3 KB]	March, 2008
+2001-2002	Cytomegalovirus IgG Antibodies - Serum (Surplus)	SSCMV_B Doc	SSCMV_B Data [XPT, 130.9 KB]	March, 2008
+2003-2004	Cytomegalovirus IgG Antibodies - Serum (Surplus)	SSCMV_C Doc	SSCMV_C Data [XPT, 121.3 KB]	March, 2008
+2007-2008	DEET and Metabolites	DEET_E Doc	DEET_E Data [XPT, 191.4 KB]	January, 2016
+2009-2010	DEET and Metabolites	DEET_F Doc	DEET_F Data [XPT, 201 KB]	January, 2016
+1999-2000	Dioxins, Furans, & Coplanar PCBs	LAB28POC Doc	LAB28POC Data [XPT, 3.6 MB]	Updated January, 2009
+2001-2002	Dioxins, Furans, & Coplanar PCBs	L28POC_B Doc	L28POC_B Data [XPT, 3.8 MB]	Updated July, 2007
+2003-2004	Dioxins, Furans, & Coplanar PCBs	L28DFP_C Doc	L28DFP_C Data [XPT, 1.6 MB]	April, 2008
+2013-2014	Electrolytes - 24-Hour Urine - First Collection	U1LT_H_R Doc	RDC Only	October, 2015
+2013-2014	Electrolytes - 24-Hour Urine - Second Collection	U2LT_H_R Doc	RDC Only	October, 2015
+2013-2014	Electrolytes - Home Urine Collection	HULT_H_R Doc	RDC Only	October, 2015
+2003-2006	Electrolytes - Urine	SSUECD_R Doc	RDC Only	September, 2012
+2003-2004	Environmental Phenols	L24EPH_C Doc	L24EPH_C Data [XPT, 185.6 KB]	Updated March, 2013
+2007-2008	Environmental Phenols	EPH_E Doc	EPH_E Data [XPT, 406.9 KB]	Updated September, 2011
+2009-2010	Environmental Phenols	EPH_F Doc	EPH_F Data [XPT, 421.9 KB]	October, 2011
+2005-2006	Environmental Phenols & Parabens	EPH_D Doc	EPH_D Data [XPT, 395 KB]	August, 2009
+2011-2012	Environmental Phenols & Parabens	EPH_G Doc	EPH_G Data [XPT, 347.6 KB]	Updated October, 2014
+2003-2004	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	SSEBV_C Doc	SSEBV_C Data [XPT, 68.4 KB]	June, 2012
+2005-2006	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	SSEBV_D Doc	SSEBV_D Data [XPT, 54.1 KB]	June, 2012
+2007-2008	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	SSEBV_E Doc	SSEBV_E Data [XPT, 49.5 KB]	June, 2012
+2009-2010	Epstein-Barr Virus (VCA IgG) - Serum (Surplus)	SSEBV_F Doc	SSEBV_F Data [XPT, 51.8 KB]	June, 2012
+2001-2002	Erythrocyte Protoporphyrin	L39_2_B Doc	L39_2_B Data [XPT, 18.5 KB]	August, 2010
+2001-2002	Erythrocyte Protoporphyrin	L39_B Doc	L39_B Data [XPT, 233.9 KB]	September, 2004
+2005-2006	Erythrocyte Protoporphyrin	EPP_D Doc	EPP_D Data [XPT, 76.7 KB]	December, 2007
+2003-2004	Erythrocyte Protoporphyrin & Selenium	L39EPP_C Doc	L39EPP_C Data [XPT, 296.9 KB]	Updated January, 2007
+1999-2000	Fasting Questionnaire	PH Doc	PH Data [XPT, 1.3 MB]	Updated December, 2005
+2001-2002	Fasting Questionnaire	PH_B Doc	PH_B Data [XPT, 1.4 MB]	December, 2005
+2003-2004	Fasting Questionnaire	PH_C Doc	PH_C Data [XPT, 1.3 MB]	Updated April, 2006
+2005-2006	Fasting Questionnaire	FASTQX_D Doc	FASTQX_D Data [XPT, 1.4 MB]	November, 2007
+2007-2008	Fasting Questionnaire	FASTQX_E Doc	FASTQX_E Data [XPT, 1.4 MB]	September, 2009
+2009-2010	Fasting Questionnaire	FASTQX_F Doc	FASTQX_F Data [XPT, 1.4 MB]	September, 2011
+2011-2012	Fasting Questionnaire	FASTQX_G Doc	FASTQX_G Data [XPT, 1.3 MB]	September, 2013
+2013-2014	Fasting Questionnaire	FASTQX_H Doc	FASTQX_H Data [XPT, 1.4 MB]	October, 2015
+2003-2004	Fatty Acids - Plasma (Surplus)	SSFA_C Doc	SSFA_C Data [XPT, 379.1 KB]	August, 2011
+2005-2006	Ferritin	FERTIN_D Doc	FERTIN_D Data [XPT, 92.8 KB]	April, 2008
+2007-2008	Ferritin	FERTIN_E Doc	FERTIN_E Data [XPT, 75.7 KB]	September, 2009
+2009-2010	Ferritin	FERTIN_F Doc	FERTIN_F Data [XPT, 83.8 KB]	February, 2012
+2003-2004	Ferritin & Transferrin Receptor	L06TFR_C Doc	L06TFR_C Data [XPT, 112.7 KB]	Updated December, 2007
+2001-2002	Folate - Folic acid & 5-methyltetrahydrofolate - Serum (Surplus)	SSFA_B_R Doc	RDC Only	July, 2014
+2011-2012	Folate - RBC	FOLATE_G Doc	FOLATE_G Data [XPT, 211.1 KB]	May, 2014
+2005-2006	Folate - RBC & Serum	FOLATE_D Doc	FOLATE_D Data [XPT, 370.2 KB]	January, 2008
+2007-2008	Folate - RBC & Serum	FOLATE_E Doc	FOLATE_E Data [XPT, 365 KB]	June, 2011
+2009-2010	Folate - RBC & Serum	FOLATE_F Doc	FOLATE_F Data [XPT, 385.6 KB]	Updated May, 2013
+2003-2004	Folate - RBC & Serum, and Vitamin B12	L06NB_C Doc	L06NB_C Data [XPT, 503.8 KB]	June, 2006
+2007-2008	Folate Forms - Serum	FOLFMS_E Doc	FOLFMS_E Data [XPT, 98.8 KB]	May, 2014
+2011-2012	Folate Forms - Serum	FOLFMS_G Doc	FOLFMS_G Data [XPT, 1 MB]	May, 2014
+1999-2000	Folic Acid - Unmetabolized (Surplus)	SSFOL_A Doc	SSFOL_A Data [XPT, 75.8 KB]	Updated July, 2010
+2001-2002	Folic Acid - Unmetabolized (Surplus)	SSFOL_B Doc	RDC Only	Updated April, 2014
+1999-2000	Glycohemoglobin	LAB10 Doc	LAB10 Data [XPT, 106.6 KB]	Updated March, 2012
+2001-2002	Glycohemoglobin	L10_B Doc	L10_B Data [XPT, 117.3 KB]	Updated March, 2012
+2003-2004	Glycohemoglobin	L10_C Doc	L10_C Data [XPT, 110.2 KB]	Updated March, 2012
+2005-2006	Glycohemoglobin	GHB_D Doc	GHB_D Data [XPT, 110.1 KB]	Updated March, 2012
+2007-2008	Glycohemoglobin	GHB_E Doc	GHB_E Data [XPT, 109.1 KB]	Updated March, 2012
+2009-2010	Glycohemoglobin	GHB_F Doc	GHB_F Data [XPT, 116.2 KB]	Updated March, 2012
+2011-2012	Glycohemoglobin	GHB_G Doc	GHB_G Data [XPT, 103.4 KB]	September, 2013
+2013-2014	Glycohemoglobin	GHB_H Doc	GHB_H Data [XPT, 110.1 KB]	October, 2015
+2000-2000	Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam	L10_2_00 Doc	RDC Only	January, 2010
+2001-2002	Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam	L10_2_B Doc	L10_2_B Data [XPT, 41.2 KB]	January, 2010
+2013-2014	HDL-Cholesterol	HDL_H Doc	HDL_H Data [XPT, 195.5 KB]	October, 2015
+2001-2001	Helicobacter pylori (HP1)	HP_01_R Doc	RDC Only	April, 2013
+2001-2001	Helicobacter pylori (HP1), Second Exam	HP2_01_R Doc	RDC Only	April, 2013
+2007-2008	Hemagglutination inhibition antibody titers to influenza A/ H1N1 viruses (Surplus)	SSH1N1_E Doc	RDC Only	Updated July, 2012
+2010-2010	Hemagglutination inhibition antibody titers to influenza A/ H1N1 viruses (Surplus)	SSHN10_R Doc	RDC Only	July, 2013
+2013-2014	Hepatitis A	HEPA_H Doc	HEPA_H Data [XPT, 144.4 KB]	October, 2015
+1999-2000	Hepatitis A Antibody	L02HPA_A Doc	L02HPA_A Data [XPT, 135.2 KB]	March, 2008
+2001-2002	Hepatitis A Antibody	L02HPA_B Doc	L02HPA_B Data [XPT, 151 KB]	March, 2008
+2003-2004	Hepatitis A Antibody	L02HPA_C Doc	L02HPA_C Data [XPT, 139.3 KB]	March, 2008
+2005-2006	Hepatitis A Antibody	HEPA_D Doc	HEPA_D Data [XPT, 143.1 KB]	March, 2008
+2007-2008	Hepatitis A Antibody	HEPA_E Doc	HEPA_E Data [XPT, 141.9 KB]	Updated September, 2014
+2009-2010	Hepatitis A Antibody	HEPA_F Doc	HEPA_F Data [XPT, 149.8 KB]	Updated January, 2013
+2011-2012	Hepatitis A Antibody	HEPA_G Doc	HEPA_G Data [XPT, 137.6 KB]	September, 2013
+1999-2000	Hepatitis B Surface Antibody	L02HBS Doc	L02HBS Data [XPT, 135.2 KB]	Updated June, 2008
+2001-2002	Hepatitis B Surface Antibody	L02HBS_B Doc	L02HBS_B Data [XPT, 151 KB]	Updated June, 2008
+2003-2004	Hepatitis B Surface Antibody	L02HBS_C Doc	L02HBS_C Data [XPT, 139.3 KB]	Updated May, 2008
+2005-2006	Hepatitis B Surface Antibody	HEPB_S_D Doc	HEPB_S_D Data [XPT, 143.1 KB]	May, 2008
+2007-2008	Hepatitis B Surface Antibody	HEPB_S_E Doc	HEPB_S_E Data [XPT, 141.9 KB]	September, 2009
+2009-2010	Hepatitis B Surface Antibody	HEPB_S_F Doc	HEPB_S_F Data [XPT, 149.8 KB]	September, 2011
+2011-2012	Hepatitis B Surface Antibody	HEPB_S_G Doc	HEPB_S_G Data [XPT, 137.6 KB]	September, 2013
+2013-2014	Hepatitis B Surface Antibody	HEPB_S_H Doc	HEPB_S_H Data [XPT, 144.4 KB]	October, 2015
+1999-2000	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	LAB02 Doc	LAB02 Data [XPT, 404.1 KB]	Updated November, 2010
+2001-2002	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	L02_B Doc	L02_B Data [XPT, 451.5 KB]	Updated November, 2010
+2003-2004	Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody	L02_C Doc	L02_C Data [XPT, 347 KB]	Updated July, 2007
+2013-2014	Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody	HEPBD_H Doc	HEPBD_H Data [XPT, 260.4 KB]	October, 2015
+2005-2006	Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody	HEPBD_D Doc	HEPBD_D Data [XPT, 254 KB]	February, 2008
+2007-2008	Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody	HEPBD_E Doc	HEPBD_E Data [XPT, 255.4 KB]	September, 2009
+2009-2010	Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody	HEPBD_F Doc	HEPBD_F Data [XPT, 269.8 KB]	September, 2011
+2011-2012	Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody	HEPBD_G Doc	HEPBD_G Data [XPT, 245.7 KB]	September, 2013
+2007-2012	Hepatitis C Antibody Reflex Testing - Serum (Surplus)	SSHCV_E Doc	SSHCV_E Data [XPT, 32.9 KB]	February, 2015
+2003-2004	Hepatitis C RNA (HCV-RNA) & HCV Genotype	SSHCVR_C Doc	SSHCVR_C Data [XPT, 3 KB]	July, 2012
+2013-2014	Hepatitis C RNA (HCV-RNA) and Hepatitis C Genotype	HEPC_H Doc	HEPC_H Data [XPT, 195.5 KB]	October, 2015
+2005-2006	Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype	HEPC_D Doc	HEPC_D Data [XPT, 254 KB]	Updated February, 2015
+2007-2008	Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype	HEPC_E Doc	HEPC_E Data [XPT, 255.4 KB]	Updated February, 2015
+2009-2010	Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype	HEPC_F Doc	HEPC_F Data [XPT, 269.8 KB]	Updated February, 2015
+2011-2012	Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype	HEPC_G Doc	HEPC_G Data [XPT, 245.7 KB]	Updated February, 2015
+2009-2010	Hepatitis E : IgG & IgM Antibodies	HEPE_F Doc	HEPE_F Data [XPT, 202.6 KB]	January, 2012
+2011-2012	Hepatitis E : IgG & IgM Antibodies	HEPE_G Doc	HEPE_G Data [XPT, 184.5 KB]	September, 2013
+2013-2014	Hepatitis E: IgG & IgM Antibodies	HEPE_H Doc	HEPE_H Data [XPT, 195.5 KB]	October, 2015
+1999-2000	Herpes Simplex Virus Type-1 & Type-2	LAB09 Doc	LAB09 Data [XPT, 94.1 KB]	Updated May, 2010
+2001-2002	Herpes Simplex Virus Type-1 & Type-2	L09_B Doc	L09_B Data [XPT, 107.3 KB]	Updated May, 2010
+2003-2004	Herpes Simplex Virus Type-1 & Type-2	L09_C Doc	L09_C Data [XPT, 97.3 KB]	Updated May, 2010
+2005-2006	Herpes Simplex Virus Type-1 & Type-2	HSV_D Doc	HSV_D Data [XPT, 102.3 KB]	Updated May, 2010
+2007-2008	Herpes Simplex Virus Type-1 & Type-2	HSV_E Doc	HSV_E Data [XPT, 87.7 KB]	Updated May, 2010
+2009-2010	Herpes Simplex Virus Type-1 & Type-2	HSV_F Doc	HSV_F Data [XPT, 97.4 KB]	October, 2011
+2011-2012	Herpes Simplex Virus Type-1 & Type-2	HSV_G Doc	HSV_G Data [XPT, 86.9 KB]	November, 2013
+2013-2014	Herpes Simplex Virus Type-1 & Type-2	HSV_H Doc	HSV_H Data [XPT, 93.4 KB]	October, 2015
+2013-2014	Herpes Simplex Virus Type-1 & Type-2 - Youth	HSV_H_R Doc	RDC Only	October, 2015
+1999-2000	Herpes Simplex Virus Type-1 (Surplus)	SSHSV1_A Doc	SSHSV1_A Data [XPT, 23.4 KB]	October, 2006
+2001-2002	Herpes Simplex Virus Type-1 (Surplus)	SSHSV1_B Doc	SSHSV1_B Data [XPT, 25.5 KB]	October, 2006
+1999-2000	Herpes Simplex Virus Type-2 - Youth	L09RDC_A Doc	RDC Only	Updated May, 2010
+2001-2002	Herpes Simplex Virus Type-2 - Youth	L09RDC_B Doc	RDC Only	September, 2009
+2003-2004	Herpes Simplex Virus Type-2 - Youth	L09RDC_C Doc	RDC Only	Updated May, 2010
+2005-2006	Herpes Simplex Virus Type-2 - Youth	HSV_DR Doc	RDC Only	Updated May, 2010
+2007-2008	Herpes Simplex Virus Type-2 - Youth	HSV_E_R Doc	RDC Only	Updated November, 2010
+2009-2010	Herpes Simplex Virus Type-2 - Youth	HSV_F_R Doc	RDC Only	October, 2011
+2011-2012	Herpes Simplex Virus Type-2 - Youth	HSV_G_R Doc	RDC Only	November, 2013
+2007-2008	HIV Antibody Test	HIV_E Doc	HIV_E Data [XPT, 48.8 KB]	September, 2009
+2009-2010	HIV Antibody Test	HIV_F Doc	HIV_F Data [XPT, 69.1 KB]	September, 2011
+2011-2012	HIV Antibody Test	HIV_G Doc	HIV_G Data [XPT, 62.4 KB]	September, 2013
+2013-2014	HIV Antibody Test	HIV_H Doc	HIV_H Data [XPT, 65.7 KB]	October, 2015
+1999-2000	HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells	LAB03 Doc	LAB03 Data [XPT, 89.4 KB]	Updated August, 2006
+2001-2002	HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells	L03_B Doc	L03_B Data [XPT, 104.4 KB]	Updated August, 2006
+2003-2004	HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells	L03_C Doc	L03_C Data [XPT, 94.3 KB]	Updated August, 2006
+2005-2006	HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells	HIV_D Doc	HIV_D Data [XPT, 101.7 KB]	December, 2007
+2005-2006	Homocysteine	HCY_D Doc	HCY_D Data [XPT, 75.6 KB]	March, 2009
+2009-2009	Human Leukocyte Antigen B-27	B27_F_R Doc	RDC Only	December, 2011
+2003-2004	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum	L52SER_C Doc	L52SER_C Data [XPT, 140.2 KB]	December, 2008
+2005-2006	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum	HPVSER_D Doc	HPVSER_D Data [XPT, 151.6 KB]	July, 2013
+2007-2008	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum	HPVSER_E Doc	HPVSER_E Data [XPT, 155.7 KB]	November, 2013
+2007-2008	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum	SER_E_R Doc	RDC Only	November, 2013
+2009-2010	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum	HPVSER_F Doc	HPVSER_F Data [XPT, 171.6 KB]	November, 2013
+2005-2006	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth	HPVS_D_R Doc	RDC Only	July, 2013
+2009-2010	Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum - Youth	SER_F_R Doc	RDC Only	November, 2013
+2005-2006	Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 22, 45, 52 & 58 Antibody - Serum	HPVSRM_D Doc	HPVSRM_D Data [XPT, 302.6 KB]	January, 2015
+2005-2006	Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 22, 45, 52 & 58 Antibody - Serum - Youth	HPVM_D_R Doc	RDC Only	January, 2015
+2009-2010	Human Papillomavirus (HPV) - Oral Rinse	ORHPV_F Doc	ORHPV_F Data [XPT, 1.7 MB]	October, 2011
+2011-2012	Human Papillomavirus (HPV) - Oral Rinse	ORHPV_G Doc	ORHPV_G Data [XPT, 1.5 MB]	February, 2014
+2009-2010	Human Papillomavirus (HPV) - Oral Rinse - Youth	OHPV_F_R Doc	RDC Only	October, 2011
+2011-2012	Human Papillomavirus (HPV) - Oral Rinse - Youth	OHPV_G_R Doc	RDC Only	February, 2014
+2003-2004	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay	L37SWA_C Doc	L37SWA_C Data [XPT, 616.5 KB]	Updated October, 2010
+2003-2004	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	L37SWR_C Doc	L37SWR_C Data [XPT, 601 KB]	November, 2010
+2005-2006	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVSWR_D Doc	HPVSWR_D Data [XPT, 662 KB]	November, 2010
+2007-2008	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVSWR_E Doc	HPVSWR_E Data [XPT, 677 KB]	August, 2012
+2007-2008	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	SWR_E_R Doc	RDC Only	August, 2012
+2009-2010	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVSWR_F Doc	HPVSWR_F Data [XPT, 725.2 KB]	August, 2012
+2009-2010	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVS_F_R Doc	RDC Only	August, 2012
+2011-2012	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVS_G_R Doc	RDC Only	March, 2015
+2011-2012	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array	HPVSWR_G Doc	HPVSWR_G Data [XPT, 661.1 KB]	March, 2015
+2003-2004	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth	SWR_C_R Doc	RDC Only	November, 2010
+2005-2006	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array - Youth	SWR_D_R Doc	RDC Only	November, 2010
+2003-2004	Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture, Prototype Line Blot Assay & Roche Linear Array - Youth	SWA_C_R Doc	RDC Only	Updated November, 2010
+2009-2010	Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections	SSHPV_F Doc	SSHPV_F Data [XPT, 35.5 KB]	December, 2013
+2009-2010	Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections - Youth	SSHP_F_R Doc	RDC Only	December, 2013
+2009-2010	Influenza A (H3N2) Variant Virus & Historical Seasonal H3N2 Influenza Viruses Antibodies (Surplus)	SSIF_F_R Doc	RDC Only	Updated October, 2015
+2013-2014	Iodine - 24-Hour Urine - First Collection	U1IO_H_R Doc	RDC Only	October, 2015
+2013-2014	Iodine - 24-Hour Urine - Second Collection	U2IO_H_R Doc	RDC Only	October, 2015
+2001-2002	Iodine - Urine	L06UIO_B Doc	L06UIO_B Data [XPT, 93.2 KB]	September, 2004
+2003-2004	Iodine - Urine	L06UIO_C Doc	L06UIO_C Data [XPT, 82.9 KB]	December, 2007
+2005-2006	Iodine - Urine	UIO_D Doc	UIO_D Data [XPT, 87.4 KB]	July, 2008
+2007-2008	Iodine - Urine	UIO_E Doc	UIO_E Data [XPT, 191.8 KB]	December, 2009
+2009-2010	Iodine - Urine	UIO_F Doc	UIO_F Data [XPT, 93.2 KB]	September, 2011
+2011-2012	Iodine - Urine	UIO_G Doc	UIO_G Data [XPT, 82.3 KB]	Updated October, 2014
+2013-2014	Iodine - Urine	UIO_H Doc	UIO_H Data [XPT, 87.3 KB]	January, 2016
+2009-2012	Iodine - Urine - Pregnant Women (Surplus)	SSUIFG_R Doc	RDC Only	January, 2015
+2001-2002	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	L40FE_B Doc	L40FE_B Data [XPT, 467 KB]	August, 2005
+2003-2004	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	L40FE_C Doc	L40FE_C Data [XPT, 153.4 KB]	Updated April, 2006
+2005-2006	Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation	FETIB_D Doc	FETIB_D Data [XPT, 167.4 KB]	December, 2007
+2013-2014	Kidney Markers - 24-Hour Urine - First Collection	U1KM_H_R Doc	RDC Only	October, 2015
+2013-2014	Kidney Markers - 24-Hour Urine - Second Collection	U2KM_H_R Doc	RDC Only	October, 2015
+2013-2014	Kidney Markers - Home Urine Collection	HUKM_H_R Doc	RDC Only	October, 2015
+1999-2000	Latex	LAB07 Doc	LAB07 Data [XPT, 122 KB]	June, 2002
+1999-2000	Lead - Dust	LAB20 Doc	LAB20 Data [XPT, 173 KB]	June, 2006
+2001-2002	Lead - Dust	L20_B Doc	L20_B Data [XPT, 211.2 KB]	June, 2006
+2003-2004	Lead - Dust	L20_C Doc	L20_C Data [XPT, 201.4 KB]	June, 2006
+2009-2010	Measles, Mumps, Rubella & Varicella	MMRV_F Doc	MMRV_F Data [XPT, 222.2 KB]	December, 2011
+1999-2000	Measles, Rubella, & Varicella	LAB19 Doc	LAB19 Data [XPT, 178.3 KB]	December, 2004
+2001-2002	Measles, Rubella, & Varicella	L19_B Doc	L19_B Data [XPT, 199.8 KB]	Updated April, 2006
+2003-2004	Measles, Rubella, & Varicella	L19_C Doc	L19_C Data [XPT, 178 KB]	April, 2006
+2000-2000	Measles, Rubella, & Varicella, Second Exam	L19_2_R Doc	RDC Only	September, 2010
+2001-2002	Measles, Rubella, & Varicella, Second Exam	L19_2_B Doc	L19_2_B Data [XPT, 19.1 KB]	September, 2010
+2003-2004	Melamine - Urine (Surplus)	SSMEL_C Doc	SSMEL_C Data [XPT, 16.6 KB]	Updated April, 2010
+1999-2000	Mercury - Hair	LAB22 Doc	LAB22 Data [XPT, 134.4 KB]	Updated January, 2005
+2005-2006	Mercury - Inorganic - Blood	IHG_D Doc	IHG_D Data [XPT, 296.2 KB]	June, 2013
+2007-2008	Mercury - Inorganic - Blood	IHG_E Doc	IHG_E Data [XPT, 292.1 KB]	June, 2013
+2009-2010	Mercury - Inorganic - Blood	IHG_F Doc	IHG_F Data [XPT, 308.6 KB]	June, 2013
+2011-2012	Mercury - Inorganic, Ethyl & Methyl - Blood	IHGEM_G Doc	IHGEM_G Data [XPT, 561.6 KB]	September, 2013
+2003-2004	Mercury - Inorganic, Urine	L06UHG_C Doc	L06UHG_C Data [XPT, 105.9 KB]	July, 2007
+2005-2006	Mercury - Inorganic, Urine	UHG_D Doc	UHG_D Data [XPT, 106.6 KB]	August, 2008
+2007-2008	Mercury - Inorganic, Urine	UHG_E Doc	UHG_E Data [XPT, 86.2 KB]	Updated September, 2011
+2009-2010	Mercury - Inorganic, Urine	UHG_F Doc	UHG_F Data [XPT, 93.2 KB]	September, 2011
+2011-2012	Mercury - Inorganic, Urine	UHG_G Doc	UHG_G Data [XPT, 102.7 KB]	Updated October, 2014
+1999-2000	Metals - Urine	LAB06HM Doc	LAB06HM Data [XPT, 1.3 MB]	March, 2005
+2001-2002	Metals - Urine	L06HM_B Doc	L06HM_B Data [XPT, 375.5 KB]	March, 2005
+2003-2004	Metals - Urine	L06HM_C Doc	L06HM_C Data [XPT, 568.4 KB]	July, 2007
+2005-2006	Metals - Urine	UHM_D Doc	UHM_D Data [XPT, 572.3 KB]	October, 2008
+2007-2008	Metals - Urine	UHM_E Doc	UHM_E Data [XPT, 578.2 KB]	Updated September, 2011
+2009-2010	Metals - Urine	UHM_F Doc	UHM_F Data [XPT, 624.8 KB]	September, 2011
+2011-2012	Metals - Urine	UHM_G Doc	UHM_G Data [XPT, 592.4 KB]	Updated October, 2014
+2011-2012	Metals - Urine - Special Sample	UHMS_G Doc	UHMS_G Data [XPT, 537 KB]	September, 2013
+2001-2002	Methicillin - Resistant Staphylococcus aureus (MRSA)	L35_B Doc	L35_B Data [XPT, 3.3 MB]	Updated September, 2006
+2003-2004	Methicillin - Resistant Staphylococcus aureus (MRSA)	L35_C Doc	L35_C Data [XPT, 3.5 MB]	November, 2006
+2003-2004	Methylmalonic acid & Homocysteine	L06MH_C Doc	L06MH_C Data [XPT, 201.7 KB]	Updated July, 2007
+1999-2000	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus )	SSOL_A Doc	SSOL_A Data [XPT, 754 KB]	August, 2012
+2001-2002	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus )	SSOL_B Doc	SSOL_B Data [XPT, 860.2 KB]	August, 2012
+2003-2004	Monoclonal gammopathy of undetermined significance (MGUS) (Surplus )	SSOL_C Doc	SSOL_C Data [XPT, 874.3 KB]	August, 2012
+1999-2000	Mumps Antibody - Serum (Surplus)	SSMUMP_A Doc	SSMUMP_A Data [XPT, 111.6 KB]	Updated June, 2009
+2001-2002	Mumps Antibody - Serum (Surplus)	SSMUMP_B Doc	SSMUMP_B Data [XPT, 130.4 KB]	Updated June, 2009
+2003-2004	Mumps Antibody - Serum (Surplus)	SSMUMP_C Doc	SSMUMP_C Data [XPT, 122.7 KB]	Updated June, 2009
+2003-2004	Non-dioxin-like Polychlorinated Biphenyls	L28NPB_C Doc	L28NPB_C Data [XPT, 1.4 MB]	April, 2008
+2001-2002	Non-dioxin-like Polychlorinated Biphenyls - Pooled Samples (Surplus Sera)	SSPCB_B Doc	SSPCB_B Data [XPT, 26.2 KB]	July, 2013
+2007-2008	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls	PCBPOL_E Doc	PCBPOL_E Data [XPT, 258 KB]	Updated September, 2014
+2005-2006	Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples	PCBPOL_D Doc	PCBPOL_D Data [XPT, 242.5 KB]	Updated September, 2014
+2005-2006	Oral Glucose Tolerance Test	OGTT_D Doc	OGTT_D Data [XPT, 158.8 KB]	January, 2008
+2007-2008	Oral Glucose Tolerance Test	OGTT_E Doc	OGTT_E Data [XPT, 313.1 KB]	January, 2010
+2009-2010	Oral Glucose Tolerance Test	OGTT_F Doc	OGTT_F Data [XPT, 298.9 KB]	January, 2012
+2011-2012	Oral Glucose Tolerance Test	OGTT_G Doc	OGTT_G Data [XPT, 266.2 KB]	January, 2014
+2003-2004	Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine	L26OPD_C Doc	L26OPD_C Data [XPT, 308.9 KB]	June, 2009
+2005-2006	Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine	OPD_D Doc	OPD_D Data [XPT, 325.8 KB]	July, 2013
+2007-2008	Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine	OPD_E Doc	OPD_E Data [XPT, 318.5 KB]	May, 2012
+2005-2006	Parathyroid Hormone	PTH_D Doc	PTH_D Data [XPT, 127.4 KB]	January, 2008
+2003-2004	Perchlorate - Urine	L04PER_C Doc	L04PER_C Data [XPT, 82.9 KB]	Updated March, 2011
+2005-2006	Perchlorate, Nitrate & Iodide - Tap Water	WPIN_D Doc	WPIN_D Data [XPT, 216.5 KB]	April, 2009
+2005-2006	Perchlorate, Nitrate & Thiocyanate - Urine	PERNT_D Doc	PERNT_D Data [XPT, 507.2 KB]	June, 2011
+2007-2008	Perchlorate, Nitrate & Thiocyanate - Urine	PERNT_E Doc	PERNT_E Data [XPT, 510.1 KB]	June, 2011
+2009-2010	Perchlorate, Nitrate & Thiocyanate - Urine	PERNT_F Doc	PERNT_F Data [XPT, 208.8 KB]	April, 2014
+2011-2012	Perchlorate, Nitrate & Thiocyanate - Urine	PERNT_G Doc	PERNT_G Data [XPT, 184.4 KB]	Updated October, 2014
+2011-2012	Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample	PERNTS_G Doc	PERNTS_G Data [XPT, 167.2 KB]	September, 2013
+2001-2002	Perchlorate, Nitrate & Thiocyanate - Urine (Surplus)	SSNO3P_B Doc	SSNO3P_B Data [XPT, 139.5 KB]	Updated February, 2013
+1999-2000	Perfluoroaokyl Chemicals - Serum (Surplus)	SSPFC_A Doc	SSPFC_A Data [XPT, 289.8 KB]	Updated September, 2012
+2005-2006	Pesticides - Carbamates & Organophosphorus Metabolites - Urine	CARB_D Doc	CARB_D Data [XPT, 325.8 KB]	Updated April, 2013
+2007-2008	Pesticides - Carbamates & Organophosphorus Metabolites - Urine	CARB_E Doc	CARB_E Data [XPT, 318.5 KB]	June, 2014
+1999-2000	Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)	LAB26PP Doc	LAB26PP Data [XPT, 1.5 MB]	Updated January, 2012
+2001-2002	Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)	L26PP_B Doc	L26PP_B Data [XPT, 1.1 MB]	Updated January, 2012
+2003-2004	Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)	L26UPP_C Doc	L26UPP_C Data [XPT, 1.2 MB]	Updated August, 2011
+2005-2006	Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)	UPP_D Doc	UPP_D Data [XPT, 802.5 KB]	August, 2011
+2007-2008	Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)	UPP_E Doc	UPP_E Data [XPT, 784.5 KB]	Updated September, 2011
+2003-2004	Pesticides - Environmental - Urine	L24PP_C Doc	L24PP_C Data [XPT, 267.8 KB]	March, 2010
+2005-2006	Pesticides - Environmental - Urine	PP_D Doc	PP_D Data [XPT, 270.5 KB]	September, 2009
+2007-2008	Pesticides - Environmental - Urine	PP_E Doc	PP_E Data [XPT, 278.6 KB]	Updated September, 2011
+2009-2010	Pesticides - Environmental - Urine	PP_F Doc	PP_F Data [XPT, 288.8 KB]	October, 2011
+2011-2012	Pesticides - Environmental - Urine	PP_G Doc	PP_G Data [XPT, 143.6 KB]	Updated October, 2014
+2001-2002	Pesticides - Organochlorine Metabolites - Serum - Pooled Samples	SSPST_B Doc	SSPST_B Data [XPT, 11.2 KB]	July, 2013
+2005-2006	Pesticides - Organochlorine Metabolites - Serum - Pooled Samples	PSTPOL_D Doc	PSTPOL_D Data [XPT, 69 KB]	Updated September, 2014
+2007-2008	Pesticides - Organochlorine Metabolites - Serum - Pooled Samples	PSTPOL_E Doc	PSTPOL_E Data [XPT, 73.4 KB]	Updated September, 2014
+2003-2004	Pesticides - Organochlorine Metabolites - Serum (Surplus)	L28OCP_C Doc	L28OCP_C Data [XPT, 754.9 KB]	April, 2008
+2003-2004	Phthalates - Urine	L24PH_C Doc	L24PH_C Data [XPT, 615.8 KB]	January, 2008
+2005-2006	Phthalates - Urine	PHTHTE_D Doc	PHTHTE_D Data [XPT, 685.4 KB]	February, 2010
+2007-2008	Phthalates - Urine	PHTHTE_E Doc	PHTHTE_E Data [XPT, 706 KB]	October, 2010
+2009-2010	Phthalates - Urine	PHTHTE_F Doc	PHTHTE_F Data [XPT, 732 KB]	September, 2012
+2011-2012	Phthalates & Plasticizers Metabolites - Urine	PHTHTE_G Doc	PHTHTE_G Data [XPT, 633.3 KB]	Updated October, 2014
+2001-2002	Phthalates, Phytoestrogens & PAHs - Urine	PHPYPA_B Doc	PHPYPA_B Data [XPT, 707.7 KB]	Updated January, 2012
+1999-2000	Phthalates, Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates	PHPYPA Doc	PHPYPA Data [XPT, 1.4 MB]	Updated January, 2012
+2003-2004	Phytoestrogens - Urine	L06PHY_C Doc	L06PHY_C Data [XPT, 191.6 KB]	Updated August, 2009
+2005-2006	Phytoestrogens - Urine	PHYTO_D Doc	PHYTO_D Data [XPT, 312 KB]	August, 2011
+2007-2008	Phytoestrogens - Urine	PHYTO_E Doc	PHYTO_E Data [XPT, 321.3 KB]	July, 2012
+2009-2010	Phytoestrogens - Urine	PHYTO_F Doc	PHYTO_F Data [XPT, 347.5 KB]	January, 2013
+2013-2014	Plasma Fasting Glucose	GLU_H Doc	GLU_H Data [XPT, 157.7 KB]	January, 2016
+2005-2006	Plasma Fasting Glucose & Insulin	GLU_D Doc	GLU_D Data [XPT, 211.3 KB]	Updated September, 2008
+2007-2008	Plasma Fasting Glucose & Insulin	GLU_E Doc	GLU_E Data [XPT, 209 KB]	January, 2010
+2009-2010	Plasma Fasting Glucose & Insulin	GLU_F Doc	GLU_F Data [XPT, 225.6 KB]	January, 2012
+2011-2012	Plasma Fasting Glucose & Insulin	GLU_G Doc	GLU_G Data [XPT, 204.3 KB]	January, 2014
+1999-2000	Plasma Fasting Glucose, Serum C-peptide & Insulin	LAB10AM Doc	LAB10AM Data [XPT, 206 KB]	Updated September, 2009
+2001-2002	Plasma Fasting Glucose, Serum C-peptide & Insulin	L10AM_B Doc	L10AM_B Data [XPT, 230.9 KB]	Updated March, 2007
+2003-2004	Plasma Fasting Glucose, Serum C-peptide & Insulin	L10AM_C Doc	L10AM_C Data [XPT, 185.3 KB]	Updated September, 2009
+2009-2010	Poliovirus Serotypes 1, 2, & 3 Antibodies - Serum (Surplus)	SSPOLI_F Doc	SSPOLI_F Data [XPT, 151.5 KB]	August, 2014
+2003-2004	Polyaromatic Hydrocarbons (PAHs) - Urine	L31PAH_C Doc	L31PAH_C Data [XPT, 488.6 KB]	Updated July, 2009
+2005-2006	Polyaromatic Hydrocarbons (PAHs) - Urine	PAH_D Doc	PAH_D Data [XPT, 478 KB]	June, 2012
+2007-2008	Polyaromatic Hydrocarbons (PAHs) - Urine	PAH_E Doc	PAH_E Data [XPT, 449.5 KB]	February, 2013
+2011-2012	Polyaromatic Hydrocarbons (PAHs) - Urine	PAH_G Doc	PAH_G Data [XPT, 470.1 KB]	Updated October, 2014
+2011-2012	Polyaromatic Hydrocarbons (PAHs)- Urine - Special Sample	PAHS_G Doc	PAHS_G Data [XPT, 426 KB]	February, 2014
+2009-2010	Polyaromatic Hydrocarbons -Urine	PAH_F Doc	PAH_F Data [XPT, 466.1 KB]	August, 2015
+2005-2006	Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples	DOXPOL_D Doc	DOXPOL_D Data [XPT, 137.2 KB]	September, 2015
+2007-2008	Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) Pooled Samples	DOXPOL_E Doc	DOXPOL_E Data [XPT, 145.9 KB]	September, 2015
+2003-2004	Polyfluoroalkyl Chemicals	L24PFC_C Doc	L24PFC_C Data [XPT, 485.3 KB]	Updated September, 2012
+2005-2006	Polyfluoroalkyl Chemicals	PFC_D Doc	PFC_D Data [XPT, 476.2 KB]	Updated September, 2012
+2007-2008	Polyfluoroalkyl Chemicals	PFC_E Doc	PFC_E Data [XPT, 470.3 KB]	Updated October, 2013
+2009-2010	Polyfluoroalkyl Chemicals	PFC_F Doc	PFC_F Data [XPT, 498.4 KB]	Updated October, 2013
+2011-2012	Polyfluoroalkyl Chemicals	PFC_G Doc	PFC_G Data [XPT, 446.6 KB]	Updated October, 2014
+2001-2002	Polyfluoroalkyl Chemicals - Pooled Samples	PFC_POOL Doc	PFC_POOL Data [XPT, 18 KB]	October, 2008
+1999-2000	Pregnancy Test - Urine	UC Doc	UC Data [XPT, 29.8 KB]	Updated January, 2007
+2001-2002	Pregnancy Test - Urine	UC_B Doc	UC_B Data [XPT, 49.2 KB]	September, 2003
+2003-2004	Pregnancy Test - Urine	UC_C Doc	UC_C Data [XPT, 43.3 KB]	Updated April, 2006
+2005-2006	Pregnancy Test - Urine	UCPREG_D Doc	UCPREG_D Data [XPT, 46.6 KB]	November, 2007
+2007-2008	Pregnancy Test - Urine	UCPREG_E Doc	UCPREG_E Data [XPT, 19.5 KB]	September, 2009
+2009-2010	Pregnancy Test - Urine	UCPREG_F Doc	UCPREG_F Data [XPT, 22.6 KB]	Updated October, 2014
+2011-2012	Pregnancy Test - Urine	UCPREG_G Doc	UCPREG_G Data [XPT, 19.3 KB]	Updated October, 2014
+2001-2002	Prostate specific antigen (PSA)	L11PSA_B Doc	L11PSA_B Data [XPT, 190.5 KB]	Updated May, 2004
+2003-2004	Prostate Specific Antigen (PSA)	L11PSA_C Doc	L11PSA_C Data [XPT, 197.1 KB]	February, 2006
+2005-2006	Prostate Specific Antigen (PSA)	PSA_D Doc	PSA_D Data [XPT, 185.1 KB]	December, 2007
+2007-2008	Prostate Specific Antigen (PSA)	PSA_E Doc	PSA_E Data [XPT, 239.5 KB]	September, 2009
+2009-2010	Prostate Specific Antigen (PSA)	PSA_F Doc	PSA_F Data [XPT, 249.9 KB]	September, 2011
+2001-2002	Prostate-specific Antigen (PSA), Second Exam	L11P_2_B Doc	L11P_2_B Data [XPT, 6.8 KB]	July, 2010
+2007-2008	Pyrethroids, Herbicides, & OP Metabolites - Urine	UPHOPM_E Doc	UPHOPM_E Data [XPT, 488 KB]	September, 2013
+2009-2010	Pyrethroids, Herbicides, & OP Metabolites - Urine	UPHOPM_F Doc	UPHOPM_F Data [XPT, 512.7 KB]	July, 2014
+2005-2006	Salmonella & Campylobacter Antibodies (Surplus)	SSSAL_D Doc	SSSAL_D Data [XPT, 66.6 KB]	January, 2015
+2000-2000	Second Day Lab General Documentation	DOC_2000 Doc	RDC Only	March, 2010
+1999-2000	Sex Steroid Hormone - Men (Surplus)	SSCHL_A Doc	SSCHL_A Data [XPT, 19.2 KB]	Updated March, 2013
+2001-2002	Sex Steroid Hormone - Men (Surplus)	SSCHL_B Doc	SSCHL_B Data [XPT, 23 KB]	Updated March, 2013
+2003-2004	Sex Steroid Hormone - Men (Surplus)	SSCHL_C Doc	SSCHL_C Data [XPT, 21.5 KB]	Updated March, 2013
+2010-2010	Sodium, Potassium & Chloride - Casual Urine	SSUE10_R Doc	RDC Only	September, 2012
+2001-2002	Standard Biochemistry Profile	L40_B Doc	L40_B Data [XPT, 2.3 MB]	September, 2006
+2003-2004	Standard Biochemistry Profile	L40_C Doc	L40_C Data [XPT, 2 MB]	Updated October, 2007
+2005-2006	Standard Biochemistry Profile	BIOPRO_D Doc	BIOPRO_D Data [XPT, 2 MB]	March, 2008
+2007-2008	Standard Biochemistry Profile	BIOPRO_E Doc	BIOPRO_E Data [XPT, 2 MB]	Updated June, 2010
+2009-2010	Standard Biochemistry Profile	BIOPRO_F Doc	BIOPRO_F Data [XPT, 2.1 MB]	Updated May, 2014
+2011-2012	Standard Biochemistry Profile	BIOPRO_G Doc	BIOPRO_G Data [XPT, 1.9 MB]	Updated February, 2014
+2013-2014	Standard Biochemistry Profile	BIOPRO_H Doc	BIOPRO_H Data [XPT, 2 MB]	October, 2015
+1999-2000	Standard Biochemistry Profile & Hormones	LAB18 Doc	LAB18 Data [XPT, 2.1 MB]	Updated August, 2006
+2000-2000	Standard Biochemistry Profile & Hormones, Second Exam	L18_2_00 Doc	RDC Only	December, 2008
+2001-2002	Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam	L40_2_B Doc	L40_2_B Data [XPT, 172.5 KB]	December, 2008
+2001-2002	Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)	L36_B Doc	L36_B Data [XPT, 104.4 KB]	Updated May, 2004
+2003-2004	Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)	L36_C Doc	L36_C Data [XPT, 94.3 KB]	Updated April, 2006
+1999-2000	Telomere Mean and Standard Deviation (Surplus)	TELO_A Doc	TELO_A Data [XPT, 84.8 KB]	Updated February, 2015
+2001-2002	Telomere Mean and Standard Deviation (Surplus)	TELO_B Doc	TELO_B Data [XPT, 101.2 KB]	Updated February, 2015
+1999-2000	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	LAB18T4 Doc	LAB18T4 Data [XPT, 108.3 KB]	Updated February, 2008
+2001-2002	Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)	L40T4_B Doc	L40T4_B Data [XPT, 121 KB]	February, 2005
+2007-2008	Thyroid Profile	THYROD_E Doc	THYROD_E Data [XPT, 705.1 KB]	Updated October, 2015
+2009-2010	Thyroid Profile	THYROD_F Doc	THYROD_F Data [XPT, 280.9 KB]	Updated October, 2015
+2011-2012	Thyroid Profile	THYROD_G Doc	THYROD_G Data [XPT, 240.8 KB]	Updated October, 2014
+2001-2002	Thyroid Profile (Surplus)	SSNH4THY Doc	SSNH4THY Data [XPT, 143.5 KB]	Updated June, 2011
+2009-2010	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	TGEMA_F Doc	TGEMA_F Data [XPT, 202.6 KB]	September, 2011
+2011-2012	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	TGEMA_G Doc	TGEMA_G Data [XPT, 184.5 KB]	September, 2013
+2013-2014	Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)	TGEMA_H Doc	TGEMA_H Data [XPT, 195.5 KB]	October, 2015
+2011-2012	Total Testosterone	TST_G Doc	TST_G Data [XPT, 123.3 KB]	Updated March, 2014
+2003-2004	Toxoplasma (IgG) & Toxoplasma (IgM)	L17_C Doc	L17_C Data [XPT, 133.8 KB]	April, 2006
+2001-2002	Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity)	L17_B Doc	L17_B Data [XPT, 318.3 KB]	December, 2005
+2009-2010	Toxoplasma Gondii Antibody - Serum (Surplus)	SSTOXO_F Doc	SSTOXO_F Data [XPT, 111.6 KB]	August, 2013
+2011-2012	Toxoplasma gondii Antibody - Serum (Surplus)	SSTOXO_G Doc	SSTOXO_G Data [XPT, 163.1 KB]	January, 2016
+2005-2006	Transferrin Receptor	TFR_D Doc	TFR_D Data [XPT, 62.1 KB]	April, 2008
+2007-2008	Transferrin Receptor	TFR_E Doc	TFR_E Data [XPT, 50.7 KB]	September, 2009
+2009-2010	Transferrin Receptor	TFR_F Doc	TFR_F Data [XPT, 56.1 KB]	February, 2012
+1999-2000	Transferrin Receptor - Pregnant Women (Surplus)	SSTFR_A Doc	SSTFR_A Data [XPT, 7.7 KB]	Updated August, 2008
+2001-2002	Transferrin Receptor - Pregnant Women (Surplus)	SSTFR_B Doc	SSTFR_B Data [XPT, 9.2 KB]	July, 2008
+2011-2012	Tuberculosis - Quantiferon_In_Gold	TB_G Doc	TB_G Data [XPT, 307 KB]	November, 2013
+2013-2014	Two-hour Oral Glucose Tolerance Test	OGTT_H Doc	OGTT_H Data [XPT, 275.1 KB]	January, 2016
+2013-2014	Urinary Albumin and Urinary Creatinine	ALB_CR_H Doc	ALB_CR_H Data [XPT, 325.3 KB]	October, 2015
+2013-2014	Urinary Chlamydia	CHLMDA_H Doc	CHLMDA_H Data [XPT, 35.7 KB]	October, 2015
+2013-2014	Urinary Chlamydia - Youth	CHLM_H_R Doc	RDC Only	October, 2015
+1999-2004	Urinary cytomegalovirus shedding	SSUCSH_A Doc	SSUCSH_A Data [XPT, 162 KB]	January, 2016
+2013-2014	Urinary Mercury	UHG_H Doc	UHG_H Data [XPT, 109.1 KB]	January, 2016
+2013-2014	Urinary Speciated Arsenics	UAS_H Doc	UAS_H Data [XPT, 325.7 KB]	January, 2016
+2013-2014	Urinary Speciated Arsenics from a Special Sample	UASS_H Doc	UASS_H Data [XPT, 308.1 KB]	December, 2015
+2013-2014	Urinary Total Arsenic	UTAS_H Doc	UTAS_H Data [XPT, 87.3 KB]	January, 2016
+2013-2014	Urinary Total Arsenic from a Special Sample	UTASS_H Doc	UTASS_H Data [XPT, 82.7 KB]	December, 2015
+2009-2010	Urine Flow Rate	UCFLOW_F Doc	UCFLOW_F Data [XPT, 471.6 KB]	September, 2011
+2011-2012	Urine Flow Rate	UCFLOW_G Doc	UCFLOW_G Data [XPT, 429.5 KB]	September, 2013
+2013-2014	Urine Flow Rate	UCFLOW_H Doc	UCFLOW_H Data [XPT, 455.2 KB]	October, 2015
+2013-2014	Urine Metals	UM_H Doc	UM_H Data [XPT, 628.9 KB]	January, 2016
+2013-2014	Urine Metals from a Special Sample	UMS_H Doc	UMS_H Data [XPT, 594.9 KB]	December, 2015
+2009-2010	Urine Osmolality	UCOSMO_F Doc	UCOSMO_F Data [XPT, 135.3 KB]	September, 2011
+2011-2012	Urine Osmolality	UCOSMO_G Doc	UCOSMO_G Data [XPT, 123.3 KB]	September, 2013
+2013-2014	Urine Pregnancy Test	UCPREG_H Doc	UCPREG_H Data [XPT, 20.8 KB]	October, 2015
+2007-2008	Urine Specific Gravity Measurement	SSUSG_E Doc	SSUSG_E Data [XPT, 116.8 KB]	April, 2011
+1999-2000	Varicella-Zoster Virus Antibody (Surplus)	SSVARI_A Doc	SSVARI_A Data [XPT, 5.2 KB]	March, 2009
+2001-2002	Varicella-Zoster Virus Antibody (Surplus)	SSVARI_B Doc	SSVARI_B Data [XPT, 6.2 KB]	March, 2009
+2003-2004	Varicella-Zoster Virus Antibody (Surplus)	SSVARI_C Doc	SSVARI_C Data [XPT, 6.2 KB]	March, 2009
+2000-2000	Vitamin A & Vitamin E, Second Exam	VIT_2_R Doc	RDC Only	August, 2010
+2001-2002	Vitamin A, Vitamin E & Carotenoids	L06VIT_B Doc	L06VIT_B Data [XPT, 1.6 MB]	October, 2007
+2003-2004	Vitamin A, Vitamin E & Carotenoids	L45VIT_C Doc	L45VIT_C Data [XPT, 2.6 MB]	October, 2007
+2005-2006	Vitamin A, Vitamin E & Carotenoids	VITAEC_D Doc	VITAEC_D Data [XPT, 1.5 MB]	Updated October, 2011
+2001-2002	Vitamin A, Vitamin E, & Carotenoids, Second Exam	VIT_2_B Doc	VIT_2_B Data [XPT, 107.3 KB]	August, 2010
+2005-2006	Vitamin B12	B12_D Doc	B12_D Data [XPT, 222.4 KB]	March, 2008
+2011-2012	Vitamin B12	VITB12_G Doc	VITB12_G Data [XPT, 125.9 KB]	March, 2014
+2003-2004	Vitamin B6	L43_C Doc	L43_C Data [XPT, 144.5 KB]	February, 2007
+2005-2006	Vitamin B6	VIT_B6_D Doc	VIT_B6_D Data [XPT, 222.4 KB]	September, 2010
+2007-2008	Vitamin B6	VIT_B6_E Doc	VIT_B6_E Data [XPT, 219.4 KB]	March, 2014
+2009-2010	Vitamin B6	VIT_B6_F Doc	VIT_B6_F Data [XPT, 231.7 KB]	October, 2015
+2003-2004	Vitamin C	L06VIT_C Doc	L06VIT_C Data [XPT, 188.3 KB]	Updated October, 2009
+2005-2006	Vitamin C	VIC_D Doc	VIC_D Data [XPT, 190.7 KB]	February, 2009
+2001-2002	Vitamin D	VID_B Doc	VID_B Data [XPT, 136.2 KB]	Updated October, 2015
+2003-2004	Vitamin D	VID_C Doc	VID_C Data [XPT, 144.5 KB]	Updated October, 2015
+2005-2006	Vitamin D	VID_D Doc	VID_D Data [XPT, 148.5 KB]	Updated October, 2015
+2007-2008	Vitamin D	VID_E Doc	VID_E Data [XPT, 656.4 KB]	October, 2015
+2009-2010	Vitamin D	VID_F Doc	VID_F Data [XPT, 693.5 KB]	October, 2015
+2000-2000	Vitamin D, Second Exam	VID_2_00 Doc	RDC Only	October, 2008
+2005-2006	Volatile Organic Compounds - Blood	VOCWB_D Doc	VOCWB_D Data [XPT, 2.4 MB]	December, 2011
+1999-2000	Volatile Organic Compounds - Blood & Water	LAB04 Doc	LAB04 Data [XPT, 306.1 KB]	December, 2006
+2001-2002	Volatile Organic Compounds - Blood & Water	L04VOC_B Doc	L04VOC_B Data [XPT, 493.4 KB]	Updated June, 2009
+2003-2004	Volatile Organic Compounds - Blood & Water	L04VOC_C Doc	L04VOC_C Data [XPT, 1.1 MB]	Updated June, 2009
+2005-2006	Volatile Organic Compounds - Water & Related Questionnaire Items	VOC_D Doc	VOC_D Data [XPT, 919.2 KB]	January, 2010
+2007-2008	Volatile Organic Compounds - Water & Related Questionnaire Items	VOC_E Doc	VOC_E Data [XPT, 885.7 KB]	February, 2015
+2011-2012	Volatile Organic Compounds & Metabolites - Urine	UVOC_G Doc	UVOC_G Data [XPT, 1.2 MB]	Updated October, 2014
+2011-2012	Volatile Organic Compounds & Metabolites - Urine - Special Sample	UVOCS_G Doc	UVOCS_G Data [XPT, 1.1 MB]	September, 2013
+2005-2006	Volatile Organic Compounds & Metabolites - Urine (Surplus)	SSUVOC_D Doc	SSUVOC_D Data [XPT, 1.6 MB]	Withdrawn
+1999-2000	Volatile Organic Compounds (VOC) - Personal Exposure Badge	LAB21 Doc	LAB21 Data [XPT, 360.4 KB]	April, 2005

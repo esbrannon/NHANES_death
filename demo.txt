@@ -1,0 +1,16 @@
+1999-2006	California - Demographic Variables & Sample Weights	CDEMO_AD Doc	RDC Only	January, 2016
+2007-2014	California - Demographic Variables & Sample Weights	CDEMO_EH Doc	RDC Only	October, 2015
+1999-2000	Demographic Variables & Sample Weights	DEMO Doc	DEMO Data [XPT, 11 MB]	Updated September, 2009
+2001-2002	Demographic Variables & Sample Weights	DEMO_B Doc	DEMO_B Data [XPT, 3.1 MB]	Updated September, 2009
+2003-2004	Demographic Variables & Sample Weights	DEMO_C Doc	DEMO_C Data [XPT, 3.4 MB]	Updated September, 2009
+2005-2006	Demographic Variables & Sample Weights	DEMO_D Doc	DEMO_D Data [XPT, 3.4 MB]	Updated September, 2009
+2007-2008	Demographic Variables & Sample Weights	DEMO_E Doc	DEMO_E Data [XPT, 3.3 MB]	September, 2009
+2009-2010	Demographic Variables & Sample Weights	DEMO_F Doc	DEMO_F Data [XPT, 3.5 MB]	September, 2011
+2011-2012	Demographic Variables & Sample Weights	DEMO_G Doc	DEMO_G Data [XPT, 3.6 MB]	Updated January, 2015
+2013-2014	Demographic Variables and Sample Weights	DEMO_H Doc	DEMO_H Data [XPT, 3.7 MB]	October, 2015
+1999-2004	Geocoding	N9904_GE Doc	RDC Only	May, 2009
+2005-2006	Geocoding	N0506_GE Doc	RDC Only	May, 2009
+2007-2008	Geocoding	N0708_GE Doc	RDC Only	November, 2009
+2009-2010	Geocoding	N0910_GE Doc	RDC Only	February, 2012
+1999-2006	Los Angeles County, California - Demographic Variables & Sample Weights	LDEMO_AD Doc	RDC Only	May, 2015
+2007-2014	Los Angeles County, California - Demographic Variables & Sample Weights	LDEMO_EH Doc	RDC Only	October, 2015
