@@ -40,5 +40,8 @@ data <- data[which(!is.na(data$mortstat)),]
 
 set.seed(2)
 inTrain <- createDataPartition(y = data$mortstat, p = .66, list = FALSE)
-str(inTrain)
+
+training <- data[ inTrain,]
+testing <- data[-inTrain,]
+
 
