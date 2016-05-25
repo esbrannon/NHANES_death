@@ -43,8 +43,11 @@ getstr = function(mystring, initial.character, final.character)
   return(snippet)
 }
 
+datalist = c("Demographics", "Dietary", "Examination", "Laboratory", "Questionnaire") #"Non-Public"
+for(item in datalist) {
+  thepage = readLines(paste0('http://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=',item)  
+}
 
-thepage = readLines('http://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=Demographics')
 mypattern = '/Nchs/Nhanes/.*.XPT'
 datalines = grep(mypattern,thepage,value=TRUE)
 getstr(datalines,"/Nchs",".XPT")
