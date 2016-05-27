@@ -1,5 +1,7 @@
 library(nhanesdata)
 library(caret)
+library(dplyr)
+library(magrittr)
 
 data("demo")
 
@@ -41,7 +43,50 @@ data <- data[which(!is.na(data$mortstat)),]
 set.seed(2)
 inTrain <- createDataPartition(y = data$mortstat, p = .66, list = FALSE)
 
-training <- data[ inTrain,]
-testing <- data[-inTrain,]
+set.seed(5252016)
+inTrain2 = sample(1:nrow(data),round(nrow(data)*2/3))
 
+data$training[inTrain2] = TRUE
+data$training[-inTrain2] = FALSE
 
+data %>% group_by(training,mortstat) %>% summarize(n())
+
+data_caret = 
+  data %>% as_data_frame %>%
+  mutate_each(funs(
+    . %>% {ifelse(is.na(.),9999999999,.)}
+                   )) %>% 
+  mutate_each(funs(. %>% {paste0('A',.)}),RIDSTATR:RIAGENDR,RIDRETH1:INDFMINC,mortstat) %>%
+  mutate_each(funs(as.factor),RIDSTATR:RIAGENDR,RIDRETH1:INDFMINC,mortstat) %>%
+  select(RIDSTATR:INDFMINC,mortstat)
+
+training <- data_caret[ inTrain2,]
+testing <- data_caret[-inTrain2,]
+
+caret_settings = trainControl(
+  method='cv',
+  number=10,
+  verboseIter = TRUE,
+  returnData=FALSE,
+  summaryFunction = twoClassSummary,
+  classProbs = TRUE
+)
+
+rf_11 = 
+  train(x = training %>% select(-mortstat) %>% as.data.frame,
+        y = training$mortstat,
+        trControl=caret_settings,
+        method='rf',
+        metric='ROC',
+        tuneLength=1,
+        ntrees=11
+        )
+
+rf_11
+rf_11$resample %>% summary
+
+predictions = predict(rf_11,training %>% select(-mortstat) %>% as.data.frame)
+confusionMatrix(predictions,training$mortstat,positive='A1')
+
+predictions = predict(rf_11,testing %>% select(-mortstat) %>% as.data.frame)
+confusionMatrix(predictions,testing$mortstat,positive='A1')

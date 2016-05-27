@@ -1,5 +1,3 @@
-
-
 #download all datasets
 
 # getstr() is my customized function
@@ -7,7 +5,6 @@
 # it extracts a string between 2 characters in a string variable
 getstr = function(mystring, initial.character, final.character)
 {
-  
   # check that all 3 inputs are character variables
   if (!is.character(mystring))
   {
@@ -18,7 +15,6 @@ getstr = function(mystring, initial.character, final.character)
   {
     stop('The initial character must be a character variable.')
   }
-  
   
   if (!is.character(final.character))
   {
@@ -43,12 +39,22 @@ getstr = function(mystring, initial.character, final.character)
   return(snippet)
 }
 
-datalist = c("Demographics", "Dietary", "Examination", "Laboratory", "Questionnaire") #"Non-Public"
-for(item in datalist) {
-  thepage = readLines(paste0('http://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=',item)  
+dataurls = function() {
+  pages = c("Demographics", "Dietary", "Examination", "Laboratory", "Questionnaire") #"Non-Public"
+  dataurls = c()
+  for(item in pages) {
+    thepage = readLines(paste0('http://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=',item))
+    mypattern = '/Nchs/Nhanes/.*.XPT'
+    datalines = grep(mypattern,thepage,value=TRUE)
+    dataurls = c(dataurls, paste0("http://wwwn.cdc.gov/",getstr(datalines,"/Nchs",".XPT"),".XPT"))
+  }
+  return(dataurls)
 }
 
-mypattern = '/Nchs/Nhanes/.*.XPT'
-datalines = grep(mypattern,thepage,value=TRUE)
-getstr(datalines,"/Nchs",".XPT")
+datadownload = function(datalist) {
+  for(item in datalist) {
+  download.file(item, (paste0("./data", substr(getstr(item, "/Nhanes/", ".XPT"),17,30), ".XPT")))
+}
+}
 
+datadownload(dataurls())
