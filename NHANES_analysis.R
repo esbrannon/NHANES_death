@@ -48,7 +48,7 @@ loadmortality <- function() {
 metadata <- function (){
   datasets <- c('demo', 'dietary', 'exam', 'lab', 'question', 'limited')
   for (item in datasets) {
-    temp <- cbind(item, read.table(paste0("./", item, ".txt"), "\t", header=FALSE))
+    temp <- cbind(item, read.table(paste0("./datasets/", item, ".txt"), "\t", header=FALSE))
     assign(item, temp)
   }
   datasets <- rbind(demo, dietary, exam, lab, question, limited)
